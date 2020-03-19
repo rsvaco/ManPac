@@ -613,28 +613,28 @@ TextureImporter:
     second: General Sprites_57
   - first:
       213: -2217431097711188998
-    second: azul_der_1
+    second: ojos_der_1
   - first:
       213: -9193278406492280027
-    second: azul_der_2
+    second: ojos_der_2
   - first:
       213: -8578678782915370650
-    second: azul_izq_1
+    second: ojos_izq_1
   - first:
       213: 8548796794498882638
-    second: azul_izq_2
+    second: ojos_izq_2
   - first:
       213: -2770186014323577720
-    second: azul_arriba_1
+    second: ojos_arriba_1
   - first:
       213: -697671044764816508
-    second: azul_arriba_2
+    second: ojos_arriba_2
   - first:
       213: -6083221670796087494
-    second: azul_abajo_1
+    second: ojos_abajo_1
   - first:
       213: 8752972248246636609
-    second: azul_abajo_2
+    second: ojos_abajo_2
   - first:
       213: 2048669364192271596
     second: General Sprites_66
@@ -652,28 +652,28 @@ TextureImporter:
     second: General Sprites_70
   - first:
       213: -1098462877645294686
-    second: naranja_der_1
+    second: fant_der_1
   - first:
       213: 2800362529190066436
-    second: naranja_der_2
+    second: fant_der_2
   - first:
       213: -8850491965672911968
-    second: naranja_izq_1
+    second: fant_izq_1
   - first:
       213: -7302349685547362514
-    second: naranja_izq_2
+    second: fant_izq_2
   - first:
       213: -870598968221954203
-    second: naranja_arriba_1
+    second: fant_arriba_1
   - first:
       213: -1064413921152172661
-    second: naranja_arriba_2
+    second: fant_arriba_2
   - first:
       213: -659982017715798197
-    second: naranja_abajo_1
+    second: fant_abajo_1
   - first:
       213: -2408486846731241049
-    second: naranja_abajo_2
+    second: fant_abajo_2
   - first:
       213: 7350373774200979171
     second: General Sprites_79
@@ -2144,7 +2144,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: azul_der_1
+      name: ojos_der_1
       rect:
         serializedVersion: 2
         x: 0
@@ -2165,7 +2165,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: azul_der_2
+      name: ojos_der_2
       rect:
         serializedVersion: 2
         x: 16
@@ -2186,7 +2186,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: azul_izq_1
+      name: ojos_izq_1
       rect:
         serializedVersion: 2
         x: 32
@@ -2207,7 +2207,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: azul_izq_2
+      name: ojos_izq_2
       rect:
         serializedVersion: 2
         x: 48
@@ -2228,7 +2228,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: azul_arriba_1
+      name: ojos_arriba_1
       rect:
         serializedVersion: 2
         x: 64
@@ -2249,7 +2249,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: azul_arriba_2
+      name: ojos_arriba_2
       rect:
         serializedVersion: 2
         x: 80
@@ -2270,7 +2270,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: azul_abajo_1
+      name: ojos_abajo_1
       rect:
         serializedVersion: 2
         x: 96
@@ -2291,7 +2291,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: azul_abajo_2
+      name: ojos_abajo_2
       rect:
         serializedVersion: 2
         x: 112
@@ -2417,7 +2417,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: naranja_der_1
+      name: fant_der_1
       rect:
         serializedVersion: 2
         x: 0
@@ -2438,7 +2438,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: naranja_der_2
+      name: fant_der_2
       rect:
         serializedVersion: 2
         x: 16
@@ -2459,7 +2459,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: naranja_izq_1
+      name: fant_izq_1
       rect:
         serializedVersion: 2
         x: 32
@@ -2480,7 +2480,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: naranja_izq_2
+      name: fant_izq_2
       rect:
         serializedVersion: 2
         x: 48
@@ -2501,7 +2501,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: naranja_arriba_1
+      name: fant_arriba_1
       rect:
         serializedVersion: 2
         x: 64
@@ -2522,7 +2522,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: naranja_arriba_2
+      name: fant_arriba_2
       rect:
         serializedVersion: 2
         x: 80
@@ -2543,7 +2543,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: naranja_abajo_1
+      name: fant_abajo_1
       rect:
         serializedVersion: 2
         x: 96
@@ -2564,7 +2564,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: naranja_abajo_2
+      name: fant_abajo_2
       rect:
         serializedVersion: 2
         x: 112
