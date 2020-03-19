@@ -35,10 +35,10 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 6
-    m_ConditionEvent: movY
+    m_ConditionEvent: dirY
     m_EventTreshold: 0
   - m_ConditionMode: 6
-    m_ConditionEvent: movX
+    m_ConditionEvent: dirX
     m_EventTreshold: -1
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -6004464041009644421}
@@ -46,7 +46,7 @@ AnimatorStateTransition:
   m_Mute: 0
   m_IsExit: 0
   serializedVersion: 3
-  m_TransitionDuration: 0.25
+  m_TransitionDuration: 0
   m_TransitionOffset: 0
   m_ExitTime: 0.75
   m_HasExitTime: 0
@@ -115,10 +115,10 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 6
-    m_ConditionEvent: movY
+    m_ConditionEvent: dirY
     m_EventTreshold: 0
   - m_ConditionMode: 6
-    m_ConditionEvent: movX
+    m_ConditionEvent: dirX
     m_EventTreshold: 1
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 3292679587492372224}
@@ -126,7 +126,7 @@ AnimatorStateTransition:
   m_Mute: 0
   m_IsExit: 0
   serializedVersion: 3
-  m_TransitionDuration: 0.25
+  m_TransitionDuration: 0
   m_TransitionOffset: 0
   m_ExitTime: 0.75
   m_HasExitTime: 0
@@ -143,13 +143,13 @@ AnimatorController:
   m_Name: paco
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: movY
+  - m_Name: dirY
     m_Type: 3
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 0}
-  - m_Name: movX
+  - m_Name: dirX
     m_Type: 3
     m_DefaultFloat: 0
     m_DefaultInt: 0
@@ -209,10 +209,10 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 6
-    m_ConditionEvent: movY
+    m_ConditionEvent: dirY
     m_EventTreshold: 1
   - m_ConditionMode: 6
-    m_ConditionEvent: movX
+    m_ConditionEvent: dirX
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -7760079640385363272}
@@ -220,7 +220,7 @@ AnimatorStateTransition:
   m_Mute: 0
   m_IsExit: 0
   serializedVersion: 3
-  m_TransitionDuration: 0.25
+  m_TransitionDuration: 0
   m_TransitionOffset: 0
   m_ExitTime: 0.75
   m_HasExitTime: 0
@@ -237,10 +237,10 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 6
-    m_ConditionEvent: movY
+    m_ConditionEvent: dirY
     m_EventTreshold: -1
   - m_ConditionMode: 6
-    m_ConditionEvent: movX
+    m_ConditionEvent: dirX
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 1566437533688265885}
@@ -248,7 +248,7 @@ AnimatorStateTransition:
   m_Mute: 0
   m_IsExit: 0
   serializedVersion: 3
-  m_TransitionDuration: 0.25
+  m_TransitionDuration: 0
   m_TransitionOffset: 0
   m_ExitTime: 0.75
   m_HasExitTime: 0
@@ -325,7 +325,7 @@ AnimatorStateTransition:
   m_Mute: 0
   m_IsExit: 0
   serializedVersion: 3
-  m_TransitionDuration: 0.25
+  m_TransitionDuration: 0
   m_TransitionOffset: 0
   m_ExitTime: 0.75
   m_HasExitTime: 0
