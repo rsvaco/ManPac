@@ -1,436 +1,439 @@
 fileFormatVersion: 2
-guid: 8b36d6abccb00eb46aaf1ee788b05b99
+guid: 935308a70f1dfd0438353ed9c0466079
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3186575185625007550
-    second: Arcade - Pac-Man - General Sprites_0
+      213: -3759486299064933299
+    second: Maze Parts_0
   - first:
-      213: -5654489810553180926
-    second: Arcade - Pac-Man - General Sprites_0
+      213: 8519076108626298517
+    second: Maze Parts_1
   - first:
-      213: 920017232686747848
-    second: Arcade - Pac-Man - General Sprites_1
+      213: -4489025073260748177
+    second: Maze Parts_2
   - first:
-      213: -4296956827505345207
-    second: Arcade - Pac-Man - General Sprites_2
+      213: -4545999183769401360
+    second: Maze Parts_3
   - first:
-      213: -5596695228494493699
-    second: Arcade - Pac-Man - General Sprites_3
+      213: 7965063935233103747
+    second: Maze Parts_4
   - first:
-      213: 4742927278161703594
-    second: Arcade - Pac-Man - General Sprites_4
+      213: 3475494163309670101
+    second: Maze Parts_5
   - first:
-      213: 470042211197098921
-    second: Arcade - Pac-Man - General Sprites_5
+      213: -1160005635241154430
+    second: Maze Parts_6
   - first:
-      213: 6511874810673123364
-    second: Arcade - Pac-Man - General Sprites_6
+      213: 1230667699423250462
+    second: Maze Parts_7
   - first:
-      213: -5455107663911863324
-    second: Arcade - Pac-Man - General Sprites_7
+      213: -9058751350114702625
+    second: Maze Parts_8
   - first:
-      213: -6347502839258500428
-    second: Arcade - Pac-Man - General Sprites_8
+      213: -3739983033551131576
+    second: Maze Parts_9
   - first:
-      213: 2670241615797156238
-    second: Arcade - Pac-Man - General Sprites_9
+      213: 4394434381935481579
+    second: Maze Parts_10
   - first:
-      213: 7066973847881737857
-    second: Arcade - Pac-Man - General Sprites_10
+      213: -8013963211003039120
+    second: Maze Parts_11
   - first:
-      213: 5368265272817717067
-    second: Arcade - Pac-Man - General Sprites_11
+      213: -3080870860139971607
+    second: Maze Parts_12
   - first:
-      213: -353648725767398399
-    second: Arcade - Pac-Man - General Sprites_12
+      213: -5229140134946680525
+    second: Maze Parts_13
   - first:
-      213: -3741878633025017733
-    second: Arcade - Pac-Man - General Sprites_13
+      213: 7953472950609506384
+    second: Maze Parts_14
   - first:
-      213: 7530298024726150553
-    second: Arcade - Pac-Man - General Sprites_14
+      213: -4440091065203402466
+    second: Maze Parts_15
   - first:
-      213: -3134984100016579493
-    second: Arcade - Pac-Man - General Sprites_15
+      213: 8361648841070394161
+    second: Maze Parts_16
   - first:
-      213: 6888441845533393205
-    second: Arcade - Pac-Man - General Sprites_16
+      213: 1965949364490213053
+    second: Maze Parts_17
   - first:
-      213: 1709586631340014096
-    second: Arcade - Pac-Man - General Sprites_17
+      213: 8492827712386660048
+    second: Maze Parts_18
   - first:
-      213: -7223258115209374156
-    second: Arcade - Pac-Man - General Sprites_18
+      213: 6819690658612417346
+    second: Maze Parts_19
   - first:
-      213: 1399484664005929550
-    second: Arcade - Pac-Man - General Sprites_19
+      213: -7881396813063675620
+    second: Maze Parts_20
   - first:
-      213: -2009492244379184793
-    second: Arcade - Pac-Man - General Sprites_20
+      213: -4088396029813286077
+    second: Maze Parts_21
   - first:
-      213: 5931690697958158157
-    second: Arcade - Pac-Man - General Sprites_21
+      213: 5358739297057868191
+    second: Maze Parts_22
   - first:
-      213: -7133805364987671983
-    second: Arcade - Pac-Man - General Sprites_22
+      213: -2567255327213347035
+    second: Maze Parts_23
   - first:
-      213: -1921672366530073048
-    second: Arcade - Pac-Man - General Sprites_23
+      213: -5005992316379160333
+    second: Maze Parts_24
   - first:
-      213: 6063694233755191457
-    second: Arcade - Pac-Man - General Sprites_24
+      213: -5239264639548248421
+    second: Maze Parts_25
   - first:
-      213: -6051052171844097117
-    second: Arcade - Pac-Man - General Sprites_25
+      213: -3882603623720135298
+    second: Maze Parts_26
   - first:
-      213: -3077762524733583050
-    second: Arcade - Pac-Man - General Sprites_26
+      213: -5336951912405930592
+    second: Maze Parts_27
   - first:
-      213: 6866528455067792620
-    second: Arcade - Pac-Man - General Sprites_27
+      213: -695004612223142845
+    second: Maze Parts_28
   - first:
-      213: 4854111422240277481
-    second: Arcade - Pac-Man - General Sprites_28
+      213: 8658414048470266597
+    second: Maze Parts_29
   - first:
-      213: -1345213711309912419
-    second: Arcade - Pac-Man - General Sprites_29
+      213: 6169288441598517802
+    second: Maze Parts_30
   - first:
-      213: 5789393292103723564
-    second: Arcade - Pac-Man - General Sprites_30
+      213: -5145585999726866404
+    second: Maze Parts_31
   - first:
-      213: 5070572504530980131
-    second: Arcade - Pac-Man - General Sprites_31
+      213: -3806043816857043784
+    second: Maze Parts_32
   - first:
-      213: 449274349363423175
-    second: Arcade - Pac-Man - General Sprites_32
+      213: 679002666120407567
+    second: Maze Parts_33
   - first:
-      213: -5113106745079036166
-    second: Arcade - Pac-Man - General Sprites_33
+      213: -5812708466524466697
+    second: Maze Parts_34
   - first:
-      213: 6433623844681227848
-    second: fantasma_rojo_1
+      213: 5674618835553483415
+    second: Maze Parts_35
   - first:
-      213: -1495728462525322635
-    second: fantasma_rojo_2
+      213: 4723907806545913567
+    second: Maze Parts_36
   - first:
-      213: -7437050525307682155
-    second: fantasma_rojo_3
+      213: 2345324495963516163
+    second: Maze Parts_37
   - first:
-      213: -7256267210310120126
-    second: fantasma_rojo_4
+      213: -3073558155279824641
+    second: Maze Parts_38
   - first:
-      213: 195871199925138489
-    second: fantasma_rojo_5
+      213: 2310268838803531124
+    second: Maze Parts_39
   - first:
-      213: 6830833008670061680
-    second: fantasma_rojo_6
+      213: -8887633523751179722
+    second: Maze Parts_40
   - first:
-      213: 4589811838273339305
-    second: fantasma_rojo_7
+      213: -375855114657006380
+    second: Maze Parts_41
   - first:
-      213: 5441463177173582964
-    second: fantasma_rojo_8
+      213: 8368493244203460827
+    second: Maze Parts_42
   - first:
-      213: 3535152105596362591
-    second: Arcade - Pac-Man - General Sprites_42
+      213: 3765037264570984620
+    second: Maze Parts_43
   - first:
-      213: -8525142895808539674
-    second: Arcade - Pac-Man - General Sprites_43
+      213: 7551286604152999639
+    second: Maze Parts_44
   - first:
-      213: 4448747827464535363
-    second: Arcade - Pac-Man - General Sprites_44
+      213: -1643992209965964052
+    second: Maze Parts_45
   - first:
-      213: -6124899850519978289
-    second: Arcade - Pac-Man - General Sprites_45
+      213: -9119376188095078434
+    second: Maze Parts_46
   - first:
-      213: -6908427708681117919
-    second: fantasma_rosa_1
+      213: 5032105676653221099
+    second: Maze Parts_47
   - first:
-      213: 2043520143396795029
-    second: fantasma_rosa_2
+      213: -1232006667935520172
+    second: Maze Parts_48
   - first:
-      213: -6393636797008962840
-    second: fantasma_rosa_3
+      213: -3341439921625336915
+    second: Maze Parts_49
   - first:
-      213: 3015426682906692893
-    second: fantasma_rosa_4
+      213: -4016826397842277042
+    second: Maze Parts_50
   - first:
-      213: 6811399805713941422
-    second: fantasma_rosa_5
+      213: 2978233514147549759
+    second: Maze Parts_51
   - first:
-      213: -6579839377439467008
-    second: fantasma_rosa_6
+      213: -2275235055878791254
+    second: Maze Parts_52
   - first:
-      213: -3135324805705621931
-    second: fantasma_rosa_7
+      213: -8482347801426125604
+    second: Maze Parts_53
   - first:
-      213: -2382696902151674983
-    second: fantasma_rosa_8
+      213: 4313493054876638941
+    second: Maze Parts_54
   - first:
-      213: 7123821560326228421
-    second: Arcade - Pac-Man - General Sprites_54
+      213: -8045277846037944309
+    second: Maze Parts_55
   - first:
-      213: -4080800605244589491
-    second: Arcade - Pac-Man - General Sprites_55
+      213: 7950784706646987029
+    second: Maze Parts_56
   - first:
-      213: -5766638638868822167
-    second: Arcade - Pac-Man - General Sprites_56
+      213: 8311173250969954943
+    second: Maze Parts_57
   - first:
-      213: 1502796575375534612
-    second: Arcade - Pac-Man - General Sprites_57
+      213: 4283901355297416958
+    second: Maze Parts_58
   - first:
-      213: -2007795342715606766
-    second: Arcade - Pac-Man - General Sprites_58
+      213: 6128174111131043065
+    second: Maze Parts_59
   - first:
-      213: 5883849525450575909
-    second: Arcade - Pac-Man - General Sprites_59
+      213: 800914532303719819
+    second: Maze Parts_60
   - first:
-      213: 4687237277013634621
-    second: Arcade - Pac-Man - General Sprites_60
+      213: 5001838402520821605
+    second: Maze Parts_61
   - first:
-      213: 9035376117202626832
-    second: Arcade - Pac-Man - General Sprites_61
+      213: 5634317525964720628
+    second: Maze Parts_62
   - first:
-      213: -7415317362358574263
-    second: Arcade - Pac-Man - General Sprites_62
+      213: 3680571281007878169
+    second: Maze Parts_63
   - first:
-      213: 7658090066482859495
-    second: Arcade - Pac-Man - General Sprites_63
+      213: 8429311970675156947
+    second: Maze Parts_64
   - first:
-      213: -1726957060721629518
-    second: fantasma_azul_1
+      213: 6186691574356612312
+    second: Maze Parts_65
   - first:
-      213: 5912773711407310057
-    second: fantasma_azul_2
+      213: 4333737286533906648
+    second: Maze Parts_66
   - first:
-      213: -4294495214480617122
-    second: fantasma_azul_3
+      213: 332762352741430418
+    second: Maze Parts_67
   - first:
-      213: -2240438329918441966
-    second: fantasma_azul_4
+      213: -5583408681077796749
+    second: Maze Parts_68
   - first:
-      213: 5299106468872339886
-    second: fantasma_azul_5
+      213: -5110523457671100968
+    second: Maze Parts_69
   - first:
-      213: -7680433323901596027
-    second: fantasma_azul_6
+      213: 7298305610448792432
+    second: Maze Parts_70
   - first:
-      213: -892211345739297310
-    second: fantasma_azul_7
+      213: -8444926599708940019
+    second: Maze Parts_71
   - first:
-      213: -5668873840229758719
-    second: fantasma_azul_8
+      213: 1920024135878958172
+    second: Maze Parts_72
   - first:
-      213: 2250470268930565974
-    second: Arcade - Pac-Man - General Sprites_72
+      213: 976125844198493589
+    second: Maze Parts_73
   - first:
-      213: 5129495943400251945
-    second: Arcade - Pac-Man - General Sprites_73
+      213: -2675080667751963784
+    second: Maze Parts_74
   - first:
-      213: 8764288124013052875
-    second: Arcade - Pac-Man - General Sprites_74
+      213: -8604702211614435900
+    second: Maze Parts_75
   - first:
-      213: 1416046611046318122
-    second: Arcade - Pac-Man - General Sprites_75
+      213: -11086943727837438
+    second: Maze Parts_76
   - first:
-      213: -2107857687139183130
-    second: Arcade - Pac-Man - General Sprites_76
+      213: 4063694850128668576
+    second: Maze Parts_77
   - first:
-      213: -2770347023461327868
-    second: Arcade - Pac-Man - General Sprites_77
+      213: -9126689498500155149
+    second: Maze Parts_78
   - first:
-      213: -8843221142339382579
-    second: Arcade - Pac-Man - General Sprites_78
+      213: -5630878844937457440
+    second: Maze Parts_79
   - first:
-      213: -4298245383058838963
-    second: fantasma_naranja_1
+      213: 3539151241575981631
+    second: Maze Parts_80
   - first:
-      213: 4036278662629296844
-    second: fantasma_naranja_2
+      213: -5307833525795919706
+    second: Maze Parts_81
   - first:
-      213: -8741855601268525070
-    second: fantasma_naranja_3
+      213: 74656781521657490
+    second: Maze Parts_82
   - first:
-      213: -2604138545180787798
-    second: fantasma_naranja_4
+      213: -9058567273697491734
+    second: Maze Parts_83
   - first:
-      213: -3664912709270648192
-    second: fantasma_naranja_5
+      213: -2442103192674191544
+    second: Maze Parts_84
   - first:
-      213: 1924113049480432407
-    second: fantasma_naranja_6
+      213: -3164420837492248399
+    second: Maze Parts_85
   - first:
-      213: 1431077961956712006
-    second: fantasma_naranja_7
+      213: 6705553711104264140
+    second: Maze Parts_86
   - first:
-      213: -5635994414183727527
-    second: fantasma_naranja_8
+      213: 9116214227931079353
+    second: Maze Parts_87
   - first:
-      213: -7316609599028194161
-    second: Arcade - Pac-Man - General Sprites_87
+      213: -7994886773590083613
+    second: Maze Parts_88
   - first:
-      213: -3196353122065174563
-    second: Arcade - Pac-Man - General Sprites_88
+      213: -3565661972705201730
+    second: Maze Parts_89
   - first:
-      213: -3590275565620912831
-    second: Arcade - Pac-Man - General Sprites_89
+      213: -7585023294621776010
+    second: Maze Parts_90
   - first:
-      213: -3135996361668829673
-    second: Arcade - Pac-Man - General Sprites_90
+      213: 4632921731275223439
+    second: Maze Parts_91
   - first:
-      213: -9072288596854443380
-    second: Arcade - Pac-Man - General Sprites_91
+      213: -4463955811111212066
+    second: Maze Parts_92
   - first:
-      213: 7640126248289915980
-    second: Arcade - Pac-Man - General Sprites_92
+      213: -6396744090760319524
+    second: Maze Parts_93
   - first:
-      213: -4630337107902455187
-    second: Arcade - Pac-Man - General Sprites_93
+      213: 1980277658722429183
+    second: Maze Parts_94
   - first:
-      213: 277842995221510681
-    second: Arcade - Pac-Man - General Sprites_94
+      213: -2987426268468915071
+    second: Maze Parts_95
   - first:
-      213: -6312080337943542096
-    second: Arcade - Pac-Man - General Sprites_95
+      213: 9175424141637479134
+    second: Maze Parts_96
   - first:
-      213: -806764000399313408
-    second: Arcade - Pac-Man - General Sprites_96
+      213: -2108706703472645778
+    second: Maze Parts_97
   - first:
-      213: -2451869322944595011
-    second: Arcade - Pac-Man - General Sprites_97
+      213: -7664312428614964460
+    second: Maze Parts_98
   - first:
-      213: -5721807126930661511
-    second: Arcade - Pac-Man - General Sprites_98
+      213: -4619467472368840136
+    second: Maze Parts_99
   - first:
-      213: 5724478535483103228
-    second: Arcade - Pac-Man - General Sprites_99
+      213: -6141220517447100606
+    second: Maze Parts_100
   - first:
-      213: -8460440839913216256
-    second: Arcade - Pac-Man - General Sprites_100
+      213: 2147109583680314603
+    second: Maze Parts_101
   - first:
-      213: 8056006033477420380
-    second: Arcade - Pac-Man - General Sprites_101
+      213: 6256610924203569734
+    second: Maze Parts_102
   - first:
-      213: -8170490326564870631
-    second: Arcade - Pac-Man - General Sprites_102
+      213: 1948264327702976434
+    second: Maze Parts_103
   - first:
-      213: 6898686728558462167
-    second: Arcade - Pac-Man - General Sprites_103
+      213: -2111160286913173942
+    second: Maze Parts_104
   - first:
-      213: -2440552880969838827
-    second: Arcade - Pac-Man - General Sprites_104
+      213: 2949310202968788627
+    second: Maze Parts_105
   - first:
-      213: 6767188434918426721
-    second: Arcade - Pac-Man - General Sprites_105
+      213: -438899829514432292
+    second: Maze Parts_106
   - first:
-      213: 9036825153859612739
-    second: Arcade - Pac-Man - General Sprites_106
+      213: 2829761165426900336
+    second: Maze Parts_107
   - first:
-      213: -1826769039064611369
-    second: Arcade - Pac-Man - General Sprites_107
+      213: 2547501670801755575
+    second: Maze Parts_108
   - first:
-      213: -6956892559809923942
-    second: Arcade - Pac-Man - General Sprites_108
+      213: -2750226491334308633
+    second: Maze Parts_109
   - first:
-      213: -5157918507458162025
-    second: Arcade - Pac-Man - General Sprites_109
+      213: 8834659467954084698
+    second: Maze Parts_110
   - first:
-      213: -1305449587199292647
-    second: Arcade - Pac-Man - General Sprites_110
+      213: -4417196201657649940
+    second: Maze Parts_111
   - first:
-      213: 894577077075808766
-    second: Arcade - Pac-Man - General Sprites_111
+      213: -4345254384914638183
+    second: Maze Parts_112
   - first:
-      213: -419439749074206127
-    second: Arcade - Pac-Man - General Sprites_112
+      213: -2340906818500367853
+    second: Maze Parts_113
   - first:
-      213: 9041092434610640580
-    second: Arcade - Pac-Man - General Sprites_113
+      213: 7451896605082905394
+    second: Maze Parts_114
   - first:
-      213: -2908858121280337510
-    second: Arcade - Pac-Man - General Sprites_114
+      213: -5784045227354858432
+    second: Maze Parts_115
   - first:
-      213: 72582838085720345
-    second: Arcade - Pac-Man - General Sprites_115
+      213: -7998212002044497476
+    second: Maze Parts_116
   - first:
-      213: 1241310568173987856
-    second: Arcade - Pac-Man - General Sprites_116
+      213: -7258177994347173275
+    second: Maze Parts_117
   - first:
-      213: 5807186983403021831
-    second: Arcade - Pac-Man - General Sprites_117
+      213: -4373055794388731884
+    second: Maze Parts_118
   - first:
-      213: -8080553165288752451
-    second: Arcade - Pac-Man - General Sprites_118
+      213: -1560443717091802328
+    second: Maze Parts_119
   - first:
-      213: 6891044713396157439
-    second: Arcade - Pac-Man - General Sprites_119
+      213: 8611769041779105583
+    second: Maze Parts_120
   - first:
-      213: -3934114445696296494
-    second: Arcade - Pac-Man - General Sprites_120
+      213: 362006521702362983
+    second: Maze Parts_121
   - first:
-      213: -6162684046678841017
-    second: Arcade - Pac-Man - General Sprites_121
+      213: -7752506109200299970
+    second: Maze Parts_122
   - first:
-      213: -2925618101290944660
-    second: Arcade - Pac-Man - General Sprites_122
+      213: -6605601546225467825
+    second: Maze Parts_123
   - first:
-      213: 2792867743069727518
-    second: Arcade - Pac-Man - General Sprites_123
+      213: 4799673140718760624
+    second: Maze Parts_124
   - first:
-      213: -8172894733454733979
-    second: Arcade - Pac-Man - General Sprites_124
+      213: 7553759995915673587
+    second: Maze Parts_125
   - first:
-      213: 5880437313721116412
-    second: Arcade - Pac-Man - General Sprites_125
+      213: 7319797865009842966
+    second: Maze Parts_126
   - first:
-      213: -5764851428263180600
-    second: Arcade - Pac-Man - General Sprites_126
+      213: -461668221076815634
+    second: Maze Parts_127
   - first:
-      213: -8003275208223510204
-    second: Arcade - Pac-Man - General Sprites_127
+      213: -1805054566903760522
+    second: Maze Parts_128
   - first:
-      213: -7495810091929906581
-    second: Arcade - Pac-Man - General Sprites_128
+      213: -2564865036911644538
+    second: Maze Parts_129
   - first:
-      213: 6149274601990725788
-    second: Arcade - Pac-Man - General Sprites_129
+      213: 6001621371560503426
+    second: Maze Parts_130
   - first:
-      213: 6749542187956024455
-    second: Arcade - Pac-Man - General Sprites_130
+      213: 9201317422891117942
+    second: Maze Parts_131
   - first:
-      213: 1569692752434624265
-    second: Arcade - Pac-Man - General Sprites_131
+      213: 7251372430601797169
+    second: Maze Parts_132
   - first:
-      213: 6966229788646020522
-    second: Arcade - Pac-Man - General Sprites_132
+      213: 7518410279524039915
+    second: Maze Parts_133
   - first:
-      213: 2395103223777500791
-    second: Arcade - Pac-Man - General Sprites_133
+      213: 3753476465688026929
+    second: Maze Parts_134
   - first:
-      213: 3425751669986468064
-    second: Arcade - Pac-Man - General Sprites_134
+      213: -7740356421523728442
+    second: Maze Parts_135
   - first:
-      213: -9140282374491416122
-    second: Arcade - Pac-Man - General Sprites_135
+      213: -4364115046768521409
+    second: Maze Parts_136
   - first:
-      213: 8651414559611522265
-    second: Arcade - Pac-Man - General Sprites_136
+      213: 2472230203177192015
+    second: Maze Parts_137
   - first:
-      213: 6261841448294487539
-    second: Arcade - Pac-Man - General Sprites_137
+      213: 7042986500504389498
+    second: Maze Parts_138
   - first:
-      213: 6214293770743286619
-    second: Arcade - Pac-Man - General Sprites_138
+      213: -8536564431266048515
+    second: Maze Parts_139
   - first:
-      213: -2883325879362729935
-    second: Arcade - Pac-Man - General Sprites_139
+      213: 822089290534572088
+    second: Maze Parts_140
   - first:
-      213: -3693405731515092501
-    second: Arcade - Pac-Man - General Sprites_140
+      213: -3471915883809656326
+    second: Maze Parts_141
   - first:
-      213: -4670443912769776437
-    second: Arcade - Pac-Man - General Sprites_141
+      213: 4214644568571033502
+    second: Maze Parts_142
+  - first:
+      213: -3165012957068816178
+    second: Maze Parts_143
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -460,7 +463,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -492,7 +495,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -504,7 +507,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -515,2983 +518,3025 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_0
+      name: Maze Parts_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 131
-        width: 224
-        height: 114
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 20d69efd9773781b0800000000000000
-      internalID: -5654489810553180926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_1
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 143
-        width: 224
-        height: 105
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8c018857cce84cc00800000000000000
-      internalID: 920017232686747848
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_2
-      rect:
-        serializedVersion: 2
-        x: 228
-        y: 140
-        width: 224
-        height: 105
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 94dba5918842e54c0800000000000000
-      internalID: -4296956827505345207
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_3
-      rect:
-        serializedVersion: 2
-        x: 228
-        y: 143
-        width: 224
-        height: 105
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: df7467d975b8452b0800000000000000
-      internalID: -5596695228494493699
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_4
-      rect:
-        serializedVersion: 2
-        x: 457
-        y: 234
-        width: 9
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aa2b65afa3342d140800000000000000
-      internalID: 4742927278161703594
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_5
-      rect:
-        serializedVersion: 2
-        x: 473
-        y: 234
-        width: 12
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9ab97d396ece58600800000000000000
-      internalID: 470042211197098921
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_6
-      rect:
-        serializedVersion: 2
-        x: 489
-        y: 234
-        width: 13
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4205cff83a3de5a50800000000000000
-      internalID: 6511874810673123364
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_7
-      rect:
-        serializedVersion: 2
-        x: 505
-        y: 236
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ebb5096b709b44b0800000000000000
-      internalID: -5455107663911863324
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_8
-      rect:
-        serializedVersion: 2
-        x: 520
-        y: 236
-        width: 15
+        y: 72
+        width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b2b6375cc329e7a0800000000000000
-      internalID: -6347502839258500428
+      spriteID: d44694e212f93dbc0800000000000000
+      internalID: -3759486299064933299
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_9
+      name: Maze Parts_1
       rect:
         serializedVersion: 2
-        x: 536
-        y: 236
-        width: 15
-        height: 6
+        x: 9
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e89fd0e1a9a9e0520800000000000000
-      internalID: 2670241615797156238
+      spriteID: 5960035b596d93670800000000000000
+      internalID: 8519076108626298517
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_10
+      name: Maze Parts_2
       rect:
         serializedVersion: 2
-        x: 552
-        y: 236
-        width: 15
-        height: 5
+        x: 18
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18667ffa54fe21260800000000000000
-      internalID: 7066973847881737857
+      spriteID: f62a870da77c3b1c0800000000000000
+      internalID: -4489025073260748177
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_11
+      name: Maze Parts_3
       rect:
         serializedVersion: 2
-        x: 568
-        y: 235
-        width: 15
-        height: 5
+        x: 27
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4f8d56c2d8ef7a40800000000000000
-      internalID: 5368265272817717067
+      spriteID: 0f7853ef3dd59e0c0800000000000000
+      internalID: -4545999183769401360
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_12
+      name: Maze Parts_4
       rect:
         serializedVersion: 2
-        x: 584
-        y: 234
-        width: 15
-        height: 6
+        x: 36
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10c5d5d8b56971bf0800000000000000
-      internalID: -353648725767398399
+      spriteID: 38718d8c277998e60800000000000000
+      internalID: 7965063935233103747
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_13
+      name: Maze Parts_5
       rect:
         serializedVersion: 2
-        x: 601
-        y: 233
-        width: 13
-        height: 7
+        x: 45
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b786be5653d221cc0800000000000000
-      internalID: -3741878633025017733
+      spriteID: 5de240f078f6b3030800000000000000
+      internalID: 3475494163309670101
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_14
+      name: Maze Parts_6
       rect:
         serializedVersion: 2
-        x: 619
-        y: 233
-        width: 9
-        height: 7
+        x: 54
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99db0a0082ef08860800000000000000
-      internalID: 7530298024726150553
+      spriteID: 288effd4505d6efe0800000000000000
+      internalID: -1160005635241154430
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_15
+      name: Maze Parts_7
       rect:
         serializedVersion: 2
-        x: 637
-        y: 232
-        width: 40
-        height: 10
+        x: 63
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5c9306229c4e74d0800000000000000
-      internalID: -3134984100016579493
+      spriteID: e188ba490c5341110800000000000000
+      internalID: 1230667699423250462
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_16
+      name: Maze Parts_8
       rect:
         serializedVersion: 2
-        x: 461
-        y: 218
-        width: 9
-        height: 13
+        x: 72
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53144faac59a89f50800000000000000
-      internalID: 6888441845533393205
+      spriteID: fdaa2d374a9d84280800000000000000
+      internalID: -9058751350114702625
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_17
+      name: Maze Parts_9
       rect:
         serializedVersion: 2
-        x: 474
-        y: 218
-        width: 12
-        height: 13
+        x: 81
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01a37c1cbfba9b710800000000000000
-      internalID: 1709586631340014096
+      spriteID: 84c623b0f39e81cc0800000000000000
+      internalID: -3739983033551131576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_18
+      name: Maze Parts_10
       rect:
         serializedVersion: 2
-        x: 488
-        y: 200
-        width: 24
-        height: 32
+        x: 90
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 436dcf1c305d1cb90800000000000000
-      internalID: -7223258115209374156
+      spriteID: be21704a9ca2cfc30800000000000000
+      internalID: 4394434381935481579
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_19
+      name: Maze Parts_11
       rect:
         serializedVersion: 2
-        x: 520
-        y: 200
-        width: 30
-        height: 32
+        x: 99
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4a2eaa13e7fb6310800000000000000
-      internalID: 1399484664005929550
+      spriteID: 0727d1d5beea8c090800000000000000
+      internalID: -8013963211003039120
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_20
+      name: Maze Parts_12
       rect:
         serializedVersion: 2
-        x: 552
-        y: 200
-        width: 32
-        height: 32
+        x: 108
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76150e25379dc14e0800000000000000
-      internalID: -2009492244379184793
+      spriteID: 9eb318e964c8e35d0800000000000000
+      internalID: -3080870860139971607
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_21
+      name: Maze Parts_13
       rect:
         serializedVersion: 2
-        x: 587
-        y: 219
-        width: 10
-        height: 11
+        x: 117
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4fe8492349915250800000000000000
-      internalID: 5931690697958158157
+      spriteID: 331d3cf90cc5e67b0800000000000000
+      internalID: -5229140134946680525
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_22
+      name: Maze Parts_14
       rect:
         serializedVersion: 2
-        x: 457
-        y: 202
-        width: 13
-        height: 9
+        x: 126
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15a422b21d1affc90800000000000000
-      internalID: -7133805364987671983
+      spriteID: 050f1cf5289606e60800000000000000
+      internalID: 7953472950609506384
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_23
+      name: Maze Parts_15
       rect:
         serializedVersion: 2
-        x: 473
-        y: 202
-        width: 13
-        height: 12
+        x: 135
+        y: 72
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82e6a420a29d455e0800000000000000
-      internalID: -1921672366530073048
+      spriteID: e195a2863b0a162c0800000000000000
+      internalID: -4440091065203402466
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_24
-      rect:
-        serializedVersion: 2
-        x: 457
-        y: 190
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1a8009d57c1962450800000000000000
-      internalID: 6063694233755191457
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_25
-      rect:
-        serializedVersion: 2
-        x: 473
-        y: 187
-        width: 13
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3ab60eb0c18560ca0800000000000000
-      internalID: -6051052171844097117
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_26
-      rect:
-        serializedVersion: 2
-        x: 490
-        y: 186
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 631de3a5a479945d0800000000000000
-      internalID: -3077762524733583050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_27
-      rect:
-        serializedVersion: 2
-        x: 506
-        y: 186
-        width: 11
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ce47d6cdf3fca4f50800000000000000
-      internalID: 6866528455067792620
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_28
-      rect:
-        serializedVersion: 2
-        x: 522
-        y: 186
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9e34ccece944d5340800000000000000
-      internalID: 4854111422240277481
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_29
-      rect:
-        serializedVersion: 2
-        x: 538
-        y: 186
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d96436eb147d45de0800000000000000
-      internalID: -1345213711309912419
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_30
-      rect:
-        serializedVersion: 2
-        x: 555
-        y: 185
-        width: 11
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c2a2fd0968e085050800000000000000
-      internalID: 5789393292103723564
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_31
-      rect:
-        serializedVersion: 2
-        x: 570
-        y: 186
-        width: 11
-        height: 11
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 32d8e6ce3da4e5640800000000000000
-      internalID: 5070572504530980131
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_32
-      rect:
-        serializedVersion: 2
-        x: 586
-        y: 185
-        width: 12
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7c76080f3a42c3600800000000000000
-      internalID: 449274349363423175
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_33
-      rect:
-        serializedVersion: 2
-        x: 604
-        y: 185
-        width: 7
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af609e871889a09b0800000000000000
-      internalID: -5113106745079036166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_rojo_1
-      rect:
-        serializedVersion: 2
-        x: 457
-        y: 169
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 84e15b8ccc2d84950800000000000000
-      internalID: 6433623844681227848
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_rojo_2
-      rect:
-        serializedVersion: 2
-        x: 473
-        y: 169
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 57aacb653ea1e3be0800000000000000
-      internalID: -1495728462525322635
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_rojo_3
-      rect:
-        serializedVersion: 2
-        x: 489
-        y: 169
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 592476e43f94ac890800000000000000
-      internalID: -7437050525307682155
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_rojo_4
-      rect:
-        serializedVersion: 2
-        x: 505
-        y: 169
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 24d8626ea6f8c4b90800000000000000
-      internalID: -7256267210310120126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_rojo_5
-      rect:
-        serializedVersion: 2
-        x: 521
-        y: 169
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 934744d81dfd7b200800000000000000
-      internalID: 195871199925138489
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_rojo_6
-      rect:
-        serializedVersion: 2
-        x: 537
-        y: 169
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 074bac91e6efbce50800000000000000
-      internalID: 6830833008670061680
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_rojo_7
-      rect:
-        serializedVersion: 2
-        x: 553
-        y: 169
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9af3a2e8c8942bf30800000000000000
-      internalID: 4589811838273339305
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_rojo_8
-      rect:
-        serializedVersion: 2
-        x: 569
-        y: 169
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 474ccc5fde5f38b40800000000000000
-      internalID: 5441463177173582964
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_42
-      rect:
-        serializedVersion: 2
-        x: 585
-        y: 169
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f5f9b092c126f0130800000000000000
-      internalID: 3535152105596362591
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_43
-      rect:
-        serializedVersion: 2
-        x: 601
-        y: 169
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6e313e354bb90b980800000000000000
-      internalID: -8525142895808539674
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_44
-      rect:
-        serializedVersion: 2
-        x: 617
-        y: 169
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 34d705f14902dbd30800000000000000
-      internalID: 4448747827464535363
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_45
-      rect:
-        serializedVersion: 2
-        x: 633
-        y: 169
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fced9ec790cfffaa0800000000000000
-      internalID: -6124899850519978289
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_rosa_1
-      rect:
-        serializedVersion: 2
-        x: 457
-        y: 153
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 12f9893f9955020a0800000000000000
-      internalID: -6908427708681117919
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_rosa_2
-      rect:
-        serializedVersion: 2
-        x: 473
-        y: 153
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 592758e4eba0c5c10800000000000000
-      internalID: 2043520143396795029
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_rosa_3
-      rect:
-        serializedVersion: 2
-        x: 489
-        y: 153
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8ea1a63453d3547a0800000000000000
-      internalID: -6393636797008962840
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_rosa_4
-      rect:
-        serializedVersion: 2
-        x: 505
-        y: 153
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d1d43e87792f8d920800000000000000
-      internalID: 3015426682906692893
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_rosa_5
-      rect:
-        serializedVersion: 2
-        x: 521
-        y: 153
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ea38eb2f804f68e50800000000000000
-      internalID: 6811399805713941422
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_rosa_6
-      rect:
-        serializedVersion: 2
-        x: 537
-        y: 153
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 00ad79c92f6bfa4a0800000000000000
-      internalID: -6579839377439467008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_rosa_7
-      rect:
-        serializedVersion: 2
-        x: 553
-        y: 153
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 55e127c63b61d74d0800000000000000
-      internalID: -3135324805705621931
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_rosa_8
-      rect:
-        serializedVersion: 2
-        x: 569
-        y: 153
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 99363d3aac5feeed0800000000000000
-      internalID: -2382696902151674983
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_54
-      rect:
-        serializedVersion: 2
-        x: 588
-        y: 159
-        width: 4
-        height: 5
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5c9838a27f5ecd260800000000000000
-      internalID: 7123821560326228421
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_55
-      rect:
-        serializedVersion: 2
-        x: 594
-        y: 159
-        width: 4
-        height: 5
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d4a723578751e57c0800000000000000
-      internalID: -4080800605244589491
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_56
-      rect:
-        serializedVersion: 2
-        x: 602
-        y: 159
-        width: 4
-        height: 5
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9678e2ef5b8c8ffa0800000000000000
-      internalID: -5766638638868822167
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_57
-      rect:
-        serializedVersion: 2
-        x: 608
-        y: 159
-        width: 4
-        height: 5
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 41aaeece5810bd410800000000000000
-      internalID: 1502796575375534612
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_58
-      rect:
-        serializedVersion: 2
-        x: 619
-        y: 161
-        width: 4
-        height: 5
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 219a0c706c0e224e0800000000000000
-      internalID: -2007795342715606766
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_59
-      rect:
-        serializedVersion: 2
-        x: 625
-        y: 161
-        width: 4
-        height: 5
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 520155c28f1a7a150800000000000000
-      internalID: 5883849525450575909
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_60
-      rect:
-        serializedVersion: 2
-        x: 635
-        y: 158
-        width: 4
-        height: 5
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d3eed5a28796c0140800000000000000
-      internalID: 4687237277013634621
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_61
-      rect:
-        serializedVersion: 2
-        x: 641
-        y: 158
-        width: 4
-        height: 5
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 01929e505ba146d70800000000000000
-      internalID: 9035376117202626832
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_62
-      rect:
-        serializedVersion: 2
-        x: 84
-        y: 116
-        width: 56
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 943a4df9520871990800000000000000
-      internalID: -7415317362358574263
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_63
-      rect:
-        serializedVersion: 2
-        x: 312
-        y: 116
-        width: 56
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ed88a65750074a60800000000000000
-      internalID: 7658090066482859495
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_azul_1
-      rect:
-        serializedVersion: 2
-        x: 457
-        y: 137
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2b6a55df3bd9808e0800000000000000
-      internalID: -1726957060721629518
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_azul_2
-      rect:
-        serializedVersion: 2
-        x: 473
-        y: 137
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9e463b10d546e0250800000000000000
-      internalID: 5912773711407310057
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_azul_3
-      rect:
-        serializedVersion: 2
-        x: 489
-        y: 137
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e51944b0b53e664c0800000000000000
-      internalID: -4294495214480617122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_azul_4
-      rect:
-        serializedVersion: 2
-        x: 505
-        y: 137
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 216ba04953d58e0e0800000000000000
-      internalID: -2240438329918441966
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_azul_5
-      rect:
-        serializedVersion: 2
-        x: 521
-        y: 137
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ea14c10f1453a8940800000000000000
-      internalID: 5299106468872339886
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_azul_6
-      rect:
-        serializedVersion: 2
-        x: 537
-        y: 137
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 58ec5c7a59e996590800000000000000
-      internalID: -7680433323901596027
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_azul_7
-      rect:
-        serializedVersion: 2
-        x: 553
-        y: 137
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2edc2a8128a3e93f0800000000000000
-      internalID: -892211345739297310
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fantasma_azul_8
-      rect:
-        serializedVersion: 2
-        x: 569
-        y: 137
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 109c99cf64d1451b0800000000000000
-      internalID: -5668873840229758719
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_72
-      rect:
-        serializedVersion: 2
-        x: 585
-        y: 121
-        width: 15
-        height: 19
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6572f2d39c64b3f10800000000000000
-      internalID: 2250470268930565974
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_73
-      rect:
-        serializedVersion: 2
-        x: 609
-        y: 136
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 922ed2f1261af2740800000000000000
-      internalID: 5129495943400251945
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_74
-      rect:
-        serializedVersion: 2
-        x: 621
-        y: 136
-        width: 11
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bc309f41d9101a970800000000000000
-      internalID: 8764288124013052875
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_75
-      rect:
-        serializedVersion: 2
-        x: 635
-        y: 136
-        width: 13
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a20cfc4e3eec6a310800000000000000
-      internalID: 1416046611046318122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_76
-      rect:
-        serializedVersion: 2
-        x: 657
-        y: 136
-        width: 7
-        height: 5
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6e51ef8f9926fb2e0800000000000000
-      internalID: -2107857687139183130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_77
+      name: Maze Parts_16
       rect:
         serializedVersion: 2
         x: 0
-        y: 3
-        width: 224
-        height: 122
+        y: 63
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 40cd6026f00cd89d0800000000000000
-      internalID: -2770347023461327868
+      spriteID: 13bbe8ca15b8a0470800000000000000
+      internalID: 8361648841070394161
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_78
+      name: Maze Parts_17
       rect:
         serializedVersion: 2
-        x: 228
-        y: 3
-        width: 224
-        height: 121
+        x: 9
+        y: 63
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc213a47931964580800000000000000
-      internalID: -8843221142339382579
+      spriteID: db618dce784784b10800000000000000
+      internalID: 1965949364490213053
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fantasma_naranja_1
+      name: Maze Parts_18
       rect:
         serializedVersion: 2
-        x: 457
-        y: 121
-        width: 14
-        height: 14
+        x: 18
+        y: 63
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4aa051e8909954c0800000000000000
-      internalID: -4298245383058838963
+      spriteID: 0d67667bec59cd570800000000000000
+      internalID: 8492827712386660048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fantasma_naranja_2
+      name: Maze Parts_19
       rect:
         serializedVersion: 2
-        x: 473
-        y: 121
-        width: 14
-        height: 14
+        x: 27
+        y: 63
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cca028cfe0eb30830800000000000000
-      internalID: 4036278662629296844
+      spriteID: 24394a0958864ae50800000000000000
+      internalID: 6819690658612417346
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fantasma_naranja_3
+      name: Maze Parts_20
       rect:
         serializedVersion: 2
-        x: 489
-        y: 121
-        width: 14
-        height: 14
+        x: 36
+        y: 63
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f771a0a5a0bea680800000000000000
-      internalID: -8741855601268525070
+      spriteID: c11a17f1b57af9290800000000000000
+      internalID: -7881396813063675620
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fantasma_naranja_4
+      name: Maze Parts_21
       rect:
         serializedVersion: 2
-        x: 505
-        y: 121
-        width: 14
-        height: 14
+        x: 45
+        y: 63
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aabb89c5acd3cdbd0800000000000000
-      internalID: -2604138545180787798
+      spriteID: 34b9cddd8791347c0800000000000000
+      internalID: -4088396029813286077
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fantasma_naranja_5
+      name: Maze Parts_22
       rect:
         serializedVersion: 2
-        x: 521
-        y: 121
-        width: 14
-        height: 14
+        x: 54
+        y: 63
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08acb17fe4d932dc0800000000000000
-      internalID: -3664912709270648192
+      spriteID: f998f05bff01e5a40800000000000000
+      internalID: 5358739297057868191
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fantasma_naranja_6
+      name: Maze Parts_23
       rect:
         serializedVersion: 2
-        x: 537
-        y: 121
-        width: 14
-        height: 14
+        x: 63
+        y: 63
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71b89f5cf92d3ba10800000000000000
-      internalID: 1924113049480432407
+      spriteID: 52f18bdb1e64f5cd0800000000000000
+      internalID: -2567255327213347035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fantasma_naranja_7
+      name: Maze Parts_24
       rect:
         serializedVersion: 2
-        x: 553
-        y: 121
-        width: 14
-        height: 14
+        x: 72
+        y: 63
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64ed15003d53cd310800000000000000
-      internalID: 1431077961956712006
+      spriteID: 3f0a2e9d284278ab0800000000000000
+      internalID: -5005992316379160333
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fantasma_naranja_8
+      name: Maze Parts_25
       rect:
         serializedVersion: 2
-        x: 569
-        y: 121
-        width: 14
-        height: 14
+        x: 81
+        y: 63
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95e3e7ae0fce8c1b0800000000000000
-      internalID: -5635994414183727527
+      spriteID: b9e2673b1946a47b0800000000000000
+      internalID: -5239264639548248421
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_87
+      name: Maze Parts_26
       rect:
         serializedVersion: 2
-        x: 601
-        y: 121
-        width: 14
-        height: 14
+        x: 90
+        y: 63
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8416b1b55e267a90800000000000000
-      internalID: -7316609599028194161
+      spriteID: e75548c33983e1ac0800000000000000
+      internalID: -3882603623720135298
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_88
+      name: Maze Parts_27
       rect:
         serializedVersion: 2
-        x: 617
-        y: 121
-        width: 14
-        height: 14
+        x: 99
+        y: 63
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddf289e35c544a3d0800000000000000
-      internalID: -3196353122065174563
+      spriteID: 0ade3b513865fe5b0800000000000000
+      internalID: -5336951912405930592
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_89
+      name: Maze Parts_28
       rect:
         serializedVersion: 2
-        x: 633
-        y: 121
-        width: 14
-        height: 14
+        x: 108
+        y: 63
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14d96692567cc2ec0800000000000000
-      internalID: -3590275565620912831
+      spriteID: 3447e2bccf8da56f0800000000000000
+      internalID: -695004612223142845
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_90
+      name: Maze Parts_29
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 63
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2725de3bdd82870800000000000000
+      internalID: 8658414048470266597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_30
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 63
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22276eb627bd9550800000000000000
+      internalID: 6169288441598517802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 63
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c109e05bbc43798b0800000000000000
+      internalID: -5145585999726866404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcf9a850573e2bc0800000000000000
+      internalID: -3806043816857043784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a66abc35d4c6900800000000000000
+      internalID: 679002666120407567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_34
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f157ed527c155fa0800000000000000
+      internalID: -5812708466524466697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_35
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79af7e8f3cb40ce40800000000000000
+      internalID: 5674618835553483415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd62dd82f11be8140800000000000000
+      internalID: 4723907806545913567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_37
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d6de8f3344c8020800000000000000
+      internalID: 2345324495963516163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_38
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff88a0664278855d0800000000000000
+      internalID: -3073558155279824641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_39
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475e980c449bf0020800000000000000
+      internalID: 2310268838803531124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a25fa1668c8a480800000000000000
+      internalID: -8887633523751179722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcfadbb3c1b8caf0800000000000000
+      internalID: -375855114657006380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_42
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8e006744cd22470800000000000000
+      internalID: 8368493244203460827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_43
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8acd0b179104430800000000000000
+      internalID: 3765037264570984620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_44
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de84b5782f8bc860800000000000000
+      internalID: 7551286604152999639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_45
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce428779bcd5f29e0800000000000000
+      internalID: -1643992209965964052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_46
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfdf676ca7717180800000000000000
+      internalID: -9119376188095078434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_47
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be45421a371a5d540800000000000000
+      internalID: 5032105676653221099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a6ac4867807eee0800000000000000
+      internalID: -1232006667935520172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_49
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da376315812d0a1d0800000000000000
+      internalID: -3341439921625336915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_50
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4df2385cad5148c0800000000000000
+      internalID: -4016826397842277042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_51
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f329dec0a9fc45920800000000000000
+      internalID: 2978233514147549759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_52
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf14d975cdbc60e0800000000000000
+      internalID: -2275235055878791254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_53
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc1ea2bd95a84a80800000000000000
+      internalID: -8482347801426125604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_54
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde590d541b9cdb30800000000000000
+      internalID: 4313493054876638941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_55
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08a69bbc6e695090800000000000000
+      internalID: -8045277846037944309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_56
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5115d4dc09cd65e60800000000000000
+      internalID: 7950784706646987029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_57
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aeaca8908375370800000000000000
+      internalID: 8311173250969954943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_58
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef62157e599737b30800000000000000
+      internalID: 4283901355297416958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_59
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f406b7b2e5ab0550800000000000000
+      internalID: 6128174111131043065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_60
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d4961168b6d1b00800000000000000
+      internalID: 800914532303719819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_61
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f2926b6891a6540800000000000000
+      internalID: 5001838402520821605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_62
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f982ee10fd113e40800000000000000
+      internalID: 5634317525964720628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_63
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910aafe5414041330800000000000000
+      internalID: 3680571281007878169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d76a01b39eeaf470800000000000000
+      internalID: 8429311970675156947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_65
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d49d68553b8bd550800000000000000
+      internalID: 6186691574356612312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_66
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d008b9d917842c30800000000000000
+      internalID: 4333737286533906648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_67
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294b6c5c8953e9400800000000000000
+      internalID: 332762352741430418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_68
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3709680036fb382b0800000000000000
+      internalID: -5583408681077796749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_69
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d58631fdf5c319b0800000000000000
+      internalID: -5110523457671100968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_70
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b6a0dd84ac84560800000000000000
+      internalID: 7298305610448792432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_71
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09e91e20089dca80800000000000000
+      internalID: -8444926599708940019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_72
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cdd3367cb45aa10800000000000000
+      internalID: 1920024135878958172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_73
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d87879845eb8d00800000000000000
+      internalID: 976125844198493589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_74
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873212d4e4430ead0800000000000000
+      internalID: -2675080667751963784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_75
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c514be9de4f59880800000000000000
+      internalID: -8604702211614435900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_76
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f1571cb7c98dff0800000000000000
+      internalID: -11086943727837438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_77
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7e0819fe4256830800000000000000
+      internalID: 4063694850128668576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_78
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f83c92a14c775180800000000000000
+      internalID: -9126689498500155149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_79
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0bd3236891bd1b0800000000000000
+      internalID: -5630878844937457440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32e4809d479d1130800000000000000
+      internalID: 3539151241575981631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_81
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a86608c789c656b0800000000000000
+      internalID: -5307833525795919706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_82
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e1cae72fb390100800000000000000
+      internalID: 74656781521657490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_83
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae448451f01894280800000000000000
+      internalID: -9058567273697491734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_84
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847bec7c518eb1ed0800000000000000
+      internalID: -2442103192674191544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_85
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b03e6d9308b514d0800000000000000
+      internalID: -3164420837492248399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_86
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc70cac9299ee0d50800000000000000
+      internalID: 6705553711104264140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_87
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2a1306a8c438e70800000000000000
+      internalID: 9116214227931079353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_88
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7b1b096d47c0190800000000000000
+      internalID: -7994886773590083613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_89
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1b9c7d359348ec0800000000000000
+      internalID: -3565661972705201730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_90
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677810f20859cb690800000000000000
+      internalID: -7585023294621776010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_91
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81f8d0b4c17b4040800000000000000
+      internalID: 4632921731275223439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_92
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbeca147d7dc02c0800000000000000
+      internalID: -4463955811111212066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_93
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdde62f04233a37a0800000000000000
+      internalID: -6396744090760319524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_94
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8eac4e90c5b7b10800000000000000
+      internalID: 1980277658722429183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_95
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1845d3b03a78a86d0800000000000000
+      internalID: -2987426268468915071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda68d1b4a7a55f70800000000000000
+      internalID: 9175424141637479134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_97
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e692704fc6e5cb2e0800000000000000
+      internalID: -2108706703472645778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_98
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b2bc41474e2a590800000000000000
+      internalID: -7664312428614964460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_99
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832dbf11fca54efb0800000000000000
+      internalID: -4619467472368840136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_100
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247993a1a7006caa0800000000000000
+      internalID: -6141220517447100606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_101
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec1a1d5ac01ccd10800000000000000
+      internalID: 2147109583680314603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_102
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6427bf29c72f3d650800000000000000
+      internalID: 6256610924203569734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_103
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b71d4d6510a90b10800000000000000
+      internalID: 1948264327702976434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_104
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46e0aa87e6a3b2e0800000000000000
+      internalID: -2111160286913173942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_105
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ec364e00e0ee820800000000000000
+      internalID: 2949310202968788627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_106
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd010d13ee6b8e9f0800000000000000
+      internalID: -438899829514432292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_107
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d377889c4554720800000000000000
+      internalID: 2829761165426900336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_108
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd4ad8b54b8a5320800000000000000
+      internalID: 2547501670801755575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_109
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec4624d39b35d9d0800000000000000
+      internalID: -2750226491334308633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_110
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bd1f26af30b9a70800000000000000
+      internalID: 8834659467954084698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_111
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4bdf83577f2b2c0800000000000000
+      internalID: -4417196201657649940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a5478b82e82b3c0800000000000000
+      internalID: -4345254384914638183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_113
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aeef6b6ad638fd0800000000000000
+      internalID: -2340906818500367853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_114
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23be7e00b747a6760800000000000000
+      internalID: 7451896605082905394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_115
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c58bac281fabfa0800000000000000
+      internalID: -5784045227354858432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_116
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb13fdb7f84a00190800000000000000
+      internalID: -7998212002044497476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_117
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a2162d195c54b90800000000000000
+      internalID: -7258177994347173275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_118
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418fe78ace8cf43c0800000000000000
+      internalID: -4373055794388731884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_119
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823c0c6f4b0385ae0800000000000000
+      internalID: -1560443717091802328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_120
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f13fef056238770800000000000000
+      internalID: 8611769041779105583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_121
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fa174730b160500800000000000000
+      internalID: 362006521702362983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_122
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38021aa4c0996490800000000000000
+      internalID: -7752506109200299970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_123
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4eb57544603454a0800000000000000
+      internalID: -6605601546225467825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_124
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2768eaa4ddb9240800000000000000
+      internalID: 4799673140718760624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_125
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff1c1bd1b854d860800000000000000
+      internalID: 7553759995915673587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_126
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b03935065259560800000000000000
+      internalID: 7319797865009842966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_127
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee041aee233d799f0800000000000000
+      internalID: -461668221076815634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maze Parts_128
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 224
-        height: 121
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71edfcd9ce3ba74d0800000000000000
-      internalID: -3135996361668829673
+      spriteID: 679318b5f6823f6e0800000000000000
+      internalID: -1805054566903760522
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_91
+      name: Maze Parts_129
       rect:
         serializedVersion: 2
-        x: 228
+        x: 9
         y: 0
-        width: 224
-        height: 121
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c82f9a49691c81280800000000000000
-      internalID: -9072288596854443380
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_92
-      rect:
-        serializedVersion: 2
-        x: 456
-        y: 108
-        width: 5
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c44557cf75e270a60800000000000000
-      internalID: 7640126248289915980
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_93
-      rect:
-        serializedVersion: 2
-        x: 462
-        y: 108
-        width: 4
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d622a25deecbdbfb0800000000000000
-      internalID: -4630337107902455187
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_94
-      rect:
-        serializedVersion: 2
-        x: 467
-        y: 108
-        width: 4
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 91a32896bb81bd300800000000000000
-      internalID: 277842995221510681
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_95
-      rect:
-        serializedVersion: 2
-        x: 472
-        y: 108
-        width: 5
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0b6c52f106cf668a0800000000000000
-      internalID: -6312080337943542096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_96
-      rect:
-        serializedVersion: 2
-        x: 478
-        y: 108
-        width: 4
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 00630a28a6ccdc4f0800000000000000
-      internalID: -806764000399313408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_97
-      rect:
-        serializedVersion: 2
-        x: 483
-        y: 108
-        width: 4
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dbbb53267d539fdd0800000000000000
-      internalID: -2451869322944595011
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_98
-      rect:
-        serializedVersion: 2
-        x: 488
-        y: 108
-        width: 5
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97fdff5cbbe0890b0800000000000000
-      internalID: -5721807126930661511
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_99
-      rect:
-        serializedVersion: 2
-        x: 494
-        y: 108
-        width: 4
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cf791dff5ee617f40800000000000000
-      internalID: 5724478535483103228
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_100
-      rect:
-        serializedVersion: 2
-        x: 499
-        y: 108
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 007e3c5a1e9769a80800000000000000
-      internalID: -8460440839913216256
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_101
-      rect:
-        serializedVersion: 2
-        x: 506
-        y: 108
-        width: 4
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c5543dd0eceaccf60800000000000000
-      internalID: 8056006033477420380
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_102
-      rect:
-        serializedVersion: 2
-        x: 511
-        y: 108
-        width: 4
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 916e55c46569c9e80800000000000000
-      internalID: -8170490326564870631
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_103
-      rect:
-        serializedVersion: 2
-        x: 516
-        y: 108
-        width: 4
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7d4cd60670f0dbf50800000000000000
-      internalID: 6898686728558462167
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_104
-      rect:
-        serializedVersion: 2
-        x: 593
-        y: 105
-        width: 22
-        height: 11
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 51f8c3ad51a612ed0800000000000000
-      internalID: -2440552880969838827
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_105
-      rect:
-        serializedVersion: 2
-        x: 625
-        y: 105
-        width: 22
-        height: 11
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 168c1770702e9ed50800000000000000
-      internalID: 6767188434918426721
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_106
-      rect:
-        serializedVersion: 2
-        x: 458
-        y: 93
         width: 8
-        height: 7
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 340fd192990496d70800000000000000
-      internalID: 9036825153859612739
+      spriteID: 680ff0296d4c76cd0800000000000000
+      internalID: -2564865036911644538
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_107
+      name: Maze Parts_130
       rect:
         serializedVersion: 2
-        x: 467
-        y: 93
-        width: 4
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7d54fd3dc3306a6e0800000000000000
-      internalID: -1826769039064611369
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_108
-      rect:
-        serializedVersion: 2
-        x: 472
-        y: 93
-        width: 5
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a94b8f77317247f90800000000000000
-      internalID: -6956892559809923942
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_109
-      rect:
-        serializedVersion: 2
-        x: 478
-        y: 93
-        width: 4
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7921b8ef1746b68b0800000000000000
-      internalID: -5157918507458162025
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_110
-      rect:
-        serializedVersion: 2
-        x: 483
-        y: 93
-        width: 4
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 91b4eca548c12ede0800000000000000
-      internalID: -1305449587199292647
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_111
-      rect:
-        serializedVersion: 2
-        x: 488
-        y: 93
-        width: 5
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef19f47ac1d2a6c00800000000000000
-      internalID: 894577077075808766
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_112
-      rect:
-        serializedVersion: 2
-        x: 494
-        y: 93
-        width: 4
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 152c0cf35c9dd2af0800000000000000
-      internalID: -419439749074206127
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_113
-      rect:
-        serializedVersion: 2
-        x: 499
-        y: 93
-        width: 4
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4c65072eaa9687d70800000000000000
-      internalID: 9041092434610640580
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_114
-      rect:
-        serializedVersion: 2
-        x: 504
-        y: 93
-        width: 5
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a99431353f8a1a7d0800000000000000
-      internalID: -2908858121280337510
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_115
-      rect:
-        serializedVersion: 2
-        x: 510
-        y: 93
-        width: 4
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 91993e8e4bdd10100800000000000000
-      internalID: 72582838085720345
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_116
-      rect:
-        serializedVersion: 2
-        x: 515
-        y: 93
+        x: 18
+        y: 0
         width: 8
-        height: 7
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 018e2ff82650a3110800000000000000
-      internalID: 1241310568173987856
+      spriteID: 288a148e6da0a4350800000000000000
+      internalID: 6001621371560503426
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_117
+      name: Maze Parts_131
       rect:
         serializedVersion: 2
-        x: 524
-        y: 93
-        width: 4
-        height: 7
+        x: 27
+        y: 0
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 706620a2bc5479050800000000000000
-      internalID: 5807186983403021831
+      spriteID: 67da9090275a1bf70800000000000000
+      internalID: 9201317422891117942
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_118
+      name: Maze Parts_132
       rect:
         serializedVersion: 2
-        x: 529
-        y: 93
-        width: 4
-        height: 7
+        x: 36
+        y: 0
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dba3e4275bb1cdf80800000000000000
-      internalID: -8080553165288752451
+      spriteID: 13eb4146ecc02a460800000000000000
+      internalID: 7251372430601797169
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_119
+      name: Maze Parts_133
       rect:
         serializedVersion: 2
-        x: 534
-        y: 93
-        width: 4
-        height: 7
+        x: 45
+        y: 0
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ffbbf4118a8e1af50800000000000000
-      internalID: 6891044713396157439
+      spriteID: becfca2a052c65860800000000000000
+      internalID: 7518410279524039915
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_120
+      name: Maze Parts_134
       rect:
         serializedVersion: 2
-        x: 618
-        y: 89
-        width: 13
-        height: 11
+        x: 54
+        y: 0
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d91a8661c73769c0800000000000000
-      internalID: -3934114445696296494
+      spriteID: 13f9f1275f6071430800000000000000
+      internalID: 3753476465688026929
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_121
+      name: Maze Parts_135
       rect:
         serializedVersion: 2
-        x: 635
-        y: 89
-        width: 12
-        height: 11
+        x: 63
+        y: 0
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 749adb6c28fb97aa0800000000000000
-      internalID: -6162684046678841017
+      spriteID: 6c71a2448dab49490800000000000000
+      internalID: -7740356421523728442
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_122
+      name: Maze Parts_136
       rect:
         serializedVersion: 2
-        x: 584
-        y: 89
-        width: 31
-        height: 4
+        x: 72
+        y: 0
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c67b91466dd1667d0800000000000000
-      internalID: -2925618101290944660
+      spriteID: f3fcc6eac7c8f63c0800000000000000
+      internalID: -4364115046768521409
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_123
+      name: Maze Parts_137
       rect:
         serializedVersion: 2
-        x: 518
-        y: 77
-        width: 5
-        height: 7
+        x: 81
+        y: 0
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1b61524a6242c620800000000000000
-      internalID: 2792867743069727518
+      spriteID: f4a4e5775402f4220800000000000000
+      internalID: 2472230203177192015
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_124
+      name: Maze Parts_138
       rect:
         serializedVersion: 2
-        x: 524
-        y: 77
-        width: 4
-        height: 7
+        x: 90
+        y: 0
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56d05c1ba8b049e80800000000000000
-      internalID: -8172894733454733979
+      spriteID: a778f6828e6bdb160800000000000000
+      internalID: 7042986500504389498
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_125
+      name: Maze Parts_139
       rect:
         serializedVersion: 2
-        x: 529
-        y: 77
-        width: 4
-        height: 7
+        x: 99
+        y: 0
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf6ac48b4928b9150800000000000000
-      internalID: 5880437313721116412
+      spriteID: df51720e0e7088980800000000000000
+      internalID: -8536564431266048515
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_126
+      name: Maze Parts_140
       rect:
         serializedVersion: 2
-        x: 534
-        y: 77
-        width: 4
-        height: 7
+        x: 108
+        y: 0
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c648736b222fffa0800000000000000
-      internalID: -5764851428263180600
+      spriteID: 83057f7aad5a86b00800000000000000
+      internalID: 822089290534572088
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_127
+      name: Maze Parts_141
       rect:
         serializedVersion: 2
-        x: 584
-        y: 73
-        width: 7
-        height: 7
+        x: 117
+        y: 0
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 441b52ee997aee090800000000000000
-      internalID: -8003275208223510204
+      spriteID: af13d7f06e641dfc0800000000000000
+      internalID: -3471915883809656326
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_128
+      name: Maze Parts_142
       rect:
         serializedVersion: 2
-        x: 592
-        y: 73
-        width: 7
-        height: 7
+        x: 126
+        y: 0
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b62dab69f6889f790800000000000000
-      internalID: -7495810091929906581
+      spriteID: e97b43ca7ec6d7a30800000000000000
+      internalID: 4214644568571033502
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_129
+      name: Maze Parts_143
       rect:
         serializedVersion: 2
-        x: 600
-        y: 73
-        width: 7
-        height: 7
+        x: 135
+        y: 0
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c902df59bac965550800000000000000
-      internalID: 6149274601990725788
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_130
-      rect:
-        serializedVersion: 2
-        x: 608
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 784b1adfbd03bad50800000000000000
-      internalID: 6749542187956024455
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_131
-      rect:
-        serializedVersion: 2
-        x: 616
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 907fe53ed3ba8c510800000000000000
-      internalID: 1569692752434624265
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_132
-      rect:
-        serializedVersion: 2
-        x: 624
-        y: 73
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aa59df785150da060800000000000000
-      internalID: 6966229788646020522
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_133
-      rect:
-        serializedVersion: 2
-        x: 518
-        y: 61
-        width: 5
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 77e96a531bd1d3120800000000000000
-      internalID: 2395103223777500791
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_134
-      rect:
-        serializedVersion: 2
-        x: 524
-        y: 61
-        width: 4
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e0ae325ef6ba8f20800000000000000
-      internalID: 3425751669986468064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_135
-      rect:
-        serializedVersion: 2
-        x: 529
-        y: 61
-        width: 4
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6c9dca19b91372180800000000000000
-      internalID: -9140282374491416122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_136
-      rect:
-        serializedVersion: 2
-        x: 534
-        y: 61
-        width: 4
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9dc894e64bfff0870800000000000000
-      internalID: 8651414559611522265
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_137
-      rect:
-        serializedVersion: 2
-        x: 584
-        y: 40
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3f5196dde9786e650800000000000000
-      internalID: 6261841448294487539
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_138
-      rect:
-        serializedVersion: 2
-        x: 518
-        y: 45
-        width: 5
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b5b831f724b9d3650800000000000000
-      internalID: 6214293770743286619
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_139
-      rect:
-        serializedVersion: 2
-        x: 524
-        y: 45
-        width: 4
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 138c4e4a36e5cf7d0800000000000000
-      internalID: -2883325879362729935
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_140
-      rect:
-        serializedVersion: 2
-        x: 529
-        y: 45
-        width: 4
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: be1b6a14e036ebcc0800000000000000
-      internalID: -3693405731515092501
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcade - Pac-Man - General Sprites_141
-      rect:
-        serializedVersion: 2
-        x: 534
-        y: 45
-        width: 4
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bc4d8f3a1004f2fb0800000000000000
-      internalID: -4670443912769776437
+      spriteID: ec097680c7d9314d0800000000000000
+      internalID: -3165012957068816178
       vertices: []
       indices: 
       edges: []

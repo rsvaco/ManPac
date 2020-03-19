@@ -1,0 +1,2812 @@
+fileFormatVersion: 2
+guid: 8b36d6abccb00eb46aaf1ee788b05b99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3186575185625007550
+    second: Arcade - Pac-Man - General Sprites_0
+  - first:
+      213: -5654489810553180926
+    second: Arcade - Pac-Man - General Sprites_0
+  - first:
+      213: 920017232686747848
+    second: Arcade - Pac-Man - General Sprites_1
+  - first:
+      213: -4296956827505345207
+    second: Arcade - Pac-Man - General Sprites_2
+  - first:
+      213: -5596695228494493699
+    second: Arcade - Pac-Man - General Sprites_3
+  - first:
+      213: 4742927278161703594
+    second: paco_der_2
+  - first:
+      213: 470042211197098921
+    second: paco_der_2
+  - first:
+      213: 6511874810673123364
+    second: paco_lleno
+  - first:
+      213: -5455107663911863324
+    second: paco_muerte_1
+  - first:
+      213: -6347502839258500428
+    second: paco_muerte_2
+  - first:
+      213: 2670241615797156238
+    second: paco_muerte_3
+  - first:
+      213: 7066973847881737857
+    second: paco_muerte_4
+  - first:
+      213: 5368265272817717067
+    second: paco_muerte_5
+  - first:
+      213: -353648725767398399
+    second: paco_muerte_6
+  - first:
+      213: -3741878633025017733
+    second: paco_muerte_7
+  - first:
+      213: 7530298024726150553
+    second: paco_muerte_8
+  - first:
+      213: -3134984100016579493
+    second: paco_muerte_9
+  - first:
+      213: 6888441845533393205
+    second: paco_izq_2
+  - first:
+      213: 1709586631340014096
+    second: paco_izq_1
+  - first:
+      213: -7223258115209374156
+    second: paco_grande_2
+  - first:
+      213: 1399484664005929550
+    second: paco_grande_1
+  - first:
+      213: -2009492244379184793
+    second: paco_grande
+  - first:
+      213: 5931690697958158157
+    second: Arcade - Pac-Man - General Sprites_21
+  - first:
+      213: -7133805364987671983
+    second: paco_arriba_2
+  - first:
+      213: -1921672366530073048
+    second: paco_arriba_1
+  - first:
+      213: 6063694233755191457
+    second: paco_abajo_2
+  - first:
+      213: -6051052171844097117
+    second: paco_abajo_1
+  - first:
+      213: -3077762524733583050
+    second: fruta_1
+  - first:
+      213: 6866528455067792620
+    second: fruta_2
+  - first:
+      213: 4854111422240277481
+    second: fruta_3
+  - first:
+      213: -1345213711309912419
+    second: fruta_4
+  - first:
+      213: 5789393292103723564
+    second: fruta_5
+  - first:
+      213: 5070572504530980131
+    second: fruta_6
+  - first:
+      213: 449274349363423175
+    second: fruta_7
+  - first:
+      213: -5113106745079036166
+    second: fruta_8
+  - first:
+      213: 6433623844681227848
+    second: fantasma_rojo_1
+  - first:
+      213: -1495728462525322635
+    second: fantasma_rojo_2
+  - first:
+      213: -7437050525307682155
+    second: fantasma_rojo_3
+  - first:
+      213: -7256267210310120126
+    second: fantasma_rojo_4
+  - first:
+      213: 195871199925138489
+    second: fantasma_rojo_5
+  - first:
+      213: 6830833008670061680
+    second: fantasma_rojo_6
+  - first:
+      213: 4589811838273339305
+    second: fantasma_rojo_7
+  - first:
+      213: 5441463177173582964
+    second: fantasma_rojo_8
+  - first:
+      213: 3535152105596362591
+    second: fantasma_muerto_azul_1
+  - first:
+      213: -8525142895808539674
+    second: fantasma_muerto_azul_2
+  - first:
+      213: 4448747827464535363
+    second: fantasma_muerto_blanco_1
+  - first:
+      213: -6124899850519978289
+    second: fantasma_muerto_blanco_2
+  - first:
+      213: -6908427708681117919
+    second: fantasma_rosa_1
+  - first:
+      213: 2043520143396795029
+    second: fantasma_rosa_2
+  - first:
+      213: -6393636797008962840
+    second: fantasma_rosa_3
+  - first:
+      213: 3015426682906692893
+    second: fantasma_rosa_4
+  - first:
+      213: 6811399805713941422
+    second: fantasma_rosa_5
+  - first:
+      213: -6579839377439467008
+    second: fantasma_rosa_6
+  - first:
+      213: -3135324805705621931
+    second: fantasma_rosa_7
+  - first:
+      213: -2382696902151674983
+    second: fantasma_rosa_8
+  - first:
+      213: 7123821560326228421
+    second: Arcade - Pac-Man - General Sprites_54
+  - first:
+      213: -4080800605244589491
+    second: Arcade - Pac-Man - General Sprites_55
+  - first:
+      213: -5766638638868822167
+    second: Arcade - Pac-Man - General Sprites_56
+  - first:
+      213: 1502796575375534612
+    second: Arcade - Pac-Man - General Sprites_57
+  - first:
+      213: -2007795342715606766
+    second: Arcade - Pac-Man - General Sprites_58
+  - first:
+      213: 5883849525450575909
+    second: Arcade - Pac-Man - General Sprites_59
+  - first:
+      213: 4687237277013634621
+    second: Arcade - Pac-Man - General Sprites_60
+  - first:
+      213: 9035376117202626832
+    second: Arcade - Pac-Man - General Sprites_61
+  - first:
+      213: -7415317362358574263
+    second: Arcade - Pac-Man - General Sprites_62
+  - first:
+      213: 7658090066482859495
+    second: Arcade - Pac-Man - General Sprites_63
+  - first:
+      213: -1726957060721629518
+    second: fantasma_azul_1
+  - first:
+      213: 5912773711407310057
+    second: fantasma_azul_2
+  - first:
+      213: -4294495214480617122
+    second: fantasma_azul_3
+  - first:
+      213: -2240438329918441966
+    second: fantasma_azul_4
+  - first:
+      213: 5299106468872339886
+    second: fantasma_azul_5
+  - first:
+      213: -7680433323901596027
+    second: fantasma_azul_6
+  - first:
+      213: -892211345739297310
+    second: fantasma_azul_7
+  - first:
+      213: -5668873840229758719
+    second: fantasma_azul_8
+  - first:
+      213: 2250470268930565974
+    second: Arcade - Pac-Man - General Sprites_72
+  - first:
+      213: 5129495943400251945
+    second: Arcade - Pac-Man - General Sprites_73
+  - first:
+      213: 8764288124013052875
+    second: Arcade - Pac-Man - General Sprites_74
+  - first:
+      213: 1416046611046318122
+    second: Arcade - Pac-Man - General Sprites_75
+  - first:
+      213: -2107857687139183130
+    second: Arcade - Pac-Man - General Sprites_76
+  - first:
+      213: -2770347023461327868
+    second: Arcade - Pac-Man - General Sprites_77
+  - first:
+      213: -8843221142339382579
+    second: Arcade - Pac-Man - General Sprites_78
+  - first:
+      213: -4298245383058838963
+    second: fantasma_naranja_1
+  - first:
+      213: 4036278662629296844
+    second: fantasma_naranja_2
+  - first:
+      213: -8741855601268525070
+    second: fantasma_naranja_3
+  - first:
+      213: -2604138545180787798
+    second: fantasma_naranja_4
+  - first:
+      213: -3664912709270648192
+    second: fantasma_naranja_5
+  - first:
+      213: 1924113049480432407
+    second: fantasma_naranja_6
+  - first:
+      213: 1431077961956712006
+    second: fantasma_naranja_7
+  - first:
+      213: -5635994414183727527
+    second: fantasma_naranja_8
+  - first:
+      213: -7316609599028194161
+    second: Arcade - Pac-Man - General Sprites_87
+  - first:
+      213: -3196353122065174563
+    second: Arcade - Pac-Man - General Sprites_88
+  - first:
+      213: -3590275565620912831
+    second: Arcade - Pac-Man - General Sprites_89
+  - first:
+      213: -3135996361668829673
+    second: Arcade - Pac-Man - General Sprites_90
+  - first:
+      213: -9072288596854443380
+    second: Arcade - Pac-Man - General Sprites_91
+  - first:
+      213: 7640126248289915980
+    second: Arcade - Pac-Man - General Sprites_92
+  - first:
+      213: -4630337107902455187
+    second: Arcade - Pac-Man - General Sprites_93
+  - first:
+      213: 277842995221510681
+    second: Arcade - Pac-Man - General Sprites_94
+  - first:
+      213: -6312080337943542096
+    second: Arcade - Pac-Man - General Sprites_95
+  - first:
+      213: -806764000399313408
+    second: Arcade - Pac-Man - General Sprites_96
+  - first:
+      213: -2451869322944595011
+    second: Arcade - Pac-Man - General Sprites_97
+  - first:
+      213: -5721807126930661511
+    second: Arcade - Pac-Man - General Sprites_98
+  - first:
+      213: 5724478535483103228
+    second: Arcade - Pac-Man - General Sprites_99
+  - first:
+      213: -8460440839913216256
+    second: Arcade - Pac-Man - General Sprites_100
+  - first:
+      213: 8056006033477420380
+    second: Arcade - Pac-Man - General Sprites_101
+  - first:
+      213: -8170490326564870631
+    second: Arcade - Pac-Man - General Sprites_102
+  - first:
+      213: 6898686728558462167
+    second: Arcade - Pac-Man - General Sprites_103
+  - first:
+      213: -2440552880969838827
+    second: Arcade - Pac-Man - General Sprites_104
+  - first:
+      213: 6767188434918426721
+    second: Arcade - Pac-Man - General Sprites_105
+  - first:
+      213: 9036825153859612739
+    second: Arcade - Pac-Man - General Sprites_106
+  - first:
+      213: -1826769039064611369
+    second: Arcade - Pac-Man - General Sprites_107
+  - first:
+      213: -6956892559809923942
+    second: Arcade - Pac-Man - General Sprites_108
+  - first:
+      213: -5157918507458162025
+    second: Arcade - Pac-Man - General Sprites_109
+  - first:
+      213: -1305449587199292647
+    second: Arcade - Pac-Man - General Sprites_110
+  - first:
+      213: 894577077075808766
+    second: Arcade - Pac-Man - General Sprites_111
+  - first:
+      213: -419439749074206127
+    second: Arcade - Pac-Man - General Sprites_112
+  - first:
+      213: 9041092434610640580
+    second: Arcade - Pac-Man - General Sprites_113
+  - first:
+      213: -2908858121280337510
+    second: Arcade - Pac-Man - General Sprites_114
+  - first:
+      213: 72582838085720345
+    second: Arcade - Pac-Man - General Sprites_115
+  - first:
+      213: 1241310568173987856
+    second: Arcade - Pac-Man - General Sprites_116
+  - first:
+      213: 5807186983403021831
+    second: Arcade - Pac-Man - General Sprites_117
+  - first:
+      213: -8080553165288752451
+    second: Arcade - Pac-Man - General Sprites_118
+  - first:
+      213: 6891044713396157439
+    second: Arcade - Pac-Man - General Sprites_119
+  - first:
+      213: -3934114445696296494
+    second: Arcade - Pac-Man - General Sprites_120
+  - first:
+      213: -6162684046678841017
+    second: Arcade - Pac-Man - General Sprites_121
+  - first:
+      213: -2925618101290944660
+    second: Arcade - Pac-Man - General Sprites_122
+  - first:
+      213: 2792867743069727518
+    second: Arcade - Pac-Man - General Sprites_123
+  - first:
+      213: -8172894733454733979
+    second: Arcade - Pac-Man - General Sprites_124
+  - first:
+      213: 5880437313721116412
+    second: Arcade - Pac-Man - General Sprites_125
+  - first:
+      213: -5764851428263180600
+    second: Arcade - Pac-Man - General Sprites_126
+  - first:
+      213: -8003275208223510204
+    second: Arcade - Pac-Man - General Sprites_127
+  - first:
+      213: -7495810091929906581
+    second: Arcade - Pac-Man - General Sprites_128
+  - first:
+      213: 6149274601990725788
+    second: Arcade - Pac-Man - General Sprites_129
+  - first:
+      213: 6749542187956024455
+    second: Arcade - Pac-Man - General Sprites_130
+  - first:
+      213: 1569692752434624265
+    second: Arcade - Pac-Man - General Sprites_131
+  - first:
+      213: 6966229788646020522
+    second: Arcade - Pac-Man - General Sprites_132
+  - first:
+      213: 2395103223777500791
+    second: Arcade - Pac-Man - General Sprites_133
+  - first:
+      213: 3425751669986468064
+    second: Arcade - Pac-Man - General Sprites_134
+  - first:
+      213: -9140282374491416122
+    second: Arcade - Pac-Man - General Sprites_135
+  - first:
+      213: 8651414559611522265
+    second: Arcade - Pac-Man - General Sprites_136
+  - first:
+      213: 6261841448294487539
+    second: Arcade - Pac-Man - General Sprites_137
+  - first:
+      213: 6214293770743286619
+    second: Arcade - Pac-Man - General Sprites_138
+  - first:
+      213: -2883325879362729935
+    second: Arcade - Pac-Man - General Sprites_139
+  - first:
+      213: -3693405731515092501
+    second: Arcade - Pac-Man - General Sprites_140
+  - first:
+      213: -4670443912769776437
+    second: Arcade - Pac-Man - General Sprites_141
+  - first:
+      213: -5731898891441138561
+    second: paco_muerte_10
+  - first:
+      213: -8259879480660917475
+    second: paco_der_2
+  - first:
+      213: -4438319844933142709
+    second: paco_muerte_11
+  - first:
+      213: -3899124062792231095
+    second: paco_der_2
+  - first:
+      213: 3701295269678769969
+    second: paco_lleno
+  - first:
+      213: -6608398031387560467
+    second: paco_muerte_1
+  - first:
+      213: -3594417692707698881
+    second: paco_muerte_2
+  - first:
+      213: -7290616159614264931
+    second: paco_muerte_3
+  - first:
+      213: -3726996884889299434
+    second: paco_muerte_4
+  - first:
+      213: 3038023729781921120
+    second: paco_muerte_5
+  - first:
+      213: -204804788661756613
+    second: paco_muerte_6
+  - first:
+      213: -4883064699601183389
+    second: paco_muerte_7
+  - first:
+      213: 6026501934268184598
+    second: paco_muerte_8
+  - first:
+      213: -1901233196194649795
+    second: paco_muerte_9
+  - first:
+      213: 8044249617874866188
+    second: paco_izq_2
+  - first:
+      213: -5324251587539093548
+    second: paco_izq_1
+  - first:
+      213: 5113698105857049859
+    second: gordo_2
+  - first:
+      213: 5408068563060118726
+    second: gordo_1
+  - first:
+      213: 2325700937420035670
+    second: gordo_lleno
+  - first:
+      213: 1279552603100950710
+    second: paco_default
+  - first:
+      213: -6431951834798430010
+    second: paco_arriba2
+  - first:
+      213: -2872486406262443802
+    second: paco_arriba_1
+  - first:
+      213: -514469436504421912
+    second: paco_abajo_2
+  - first:
+      213: 8452520039580129691
+    second: paco_abajo_1
+  - first:
+      213: 8572642533482366397
+    second: fruta_1
+  - first:
+      213: 3525671846960484069
+    second: fruta_2
+  - first:
+      213: -4885502733970299485
+    second: fruta_3
+  - first:
+      213: -368645592582653176
+    second: fruta_4
+  - first:
+      213: -8762654518537681192
+    second: fruta_5
+  - first:
+      213: 1007953953851502625
+    second: fruta_6
+  - first:
+      213: 4653310138620623221
+    second: fruta_7
+  - first:
+      213: 5603169573902421712
+    second: fruta_8
+  - first:
+      213: -3071940039228771980
+    second: rojo_der_1
+  - first:
+      213: 5614722286926402121
+    second: rojo_der_2
+  - first:
+      213: 5320426794394397373
+    second: rojo_izq_1
+  - first:
+      213: 5770053431996575694
+    second: rojo_izq_2
+  - first:
+      213: -5953528066010716834
+    second: rojo_arriba_1
+  - first:
+      213: 1362953187447099200
+    second: rojo_arriba_2
+  - first:
+      213: -2615655723098952189
+    second: rojo_abajo_1
+  - first:
+      213: 3483558145558418992
+    second: rojo_abajo_2
+  - first:
+      213: 808882566097717105
+    second: fantasma_muerto_1
+  - first:
+      213: -2021110470154938200
+    second: fantasma_muerto_2
+  - first:
+      213: 3308822109506280049
+    second: fantasma_muerto_3
+  - first:
+      213: 4231734994959244196
+    second: fantasma_muerto_4
+  - first:
+      213: 8518080189904074036
+    second: rosa_der_1
+  - first:
+      213: 6406230240320287606
+    second: rosa_der_2
+  - first:
+      213: 4975970370313964971
+    second: rosa_izq_1
+  - first:
+      213: 1596611549281920230
+    second: rosa_izq_2
+  - first:
+      213: 2160937865238016131
+    second: rosa_arriba_1
+  - first:
+      213: -5193727270391530826
+    second: rosa_arriba_2
+  - first:
+      213: -7283415968023049736
+    second: rosa_abajo_1
+  - first:
+      213: -8757996564984155346
+    second: rosa_abajo_2
+  - first:
+      213: -9182920561736164870
+    second: fantasma_negro_1
+  - first:
+      213: -6703444920042286724
+    second: General Sprites_51
+  - first:
+      213: 6462383921534924831
+    second: fantasma_negro_2
+  - first:
+      213: 1492634392445994675
+    second: General Sprites_53
+  - first:
+      213: 8817110637541373810
+    second: fantasma_negro_3
+  - first:
+      213: -3783996654968484275
+    second: General Sprites_55
+  - first:
+      213: 3029124538703840103
+    second: fantasma_negro_4
+  - first:
+      213: 3628998115506278766
+    second: General Sprites_57
+  - first:
+      213: -2217431097711188998
+    second: azul_der_1
+  - first:
+      213: -9193278406492280027
+    second: azul_der_2
+  - first:
+      213: -8578678782915370650
+    second: azul_izq_1
+  - first:
+      213: 8548796794498882638
+    second: azul_izq_2
+  - first:
+      213: -2770186014323577720
+    second: azul_arriba_1
+  - first:
+      213: -697671044764816508
+    second: azul_arriba_2
+  - first:
+      213: -6083221670796087494
+    second: azul_abajo_1
+  - first:
+      213: 8752972248246636609
+    second: azul_abajo_2
+  - first:
+      213: 2048669364192271596
+    second: General Sprites_66
+  - first:
+      213: -2814388945164700564
+    second: General Sprites_67
+  - first:
+      213: -311355642430467806
+    second: General Sprites_68
+  - first:
+      213: -6216278711777991425
+    second: General Sprites_69
+  - first:
+      213: -5861098044276711060
+    second: General Sprites_70
+  - first:
+      213: -1098462877645294686
+    second: naranja_der_1
+  - first:
+      213: 2800362529190066436
+    second: naranja_der_2
+  - first:
+      213: -8850491965672911968
+    second: naranja_izq_1
+  - first:
+      213: -7302349685547362514
+    second: naranja_izq_2
+  - first:
+      213: -870598968221954203
+    second: naranja_arriba_1
+  - first:
+      213: -1064413921152172661
+    second: naranja_arriba_2
+  - first:
+      213: -659982017715798197
+    second: naranja_abajo_1
+  - first:
+      213: -2408486846731241049
+    second: naranja_abajo_2
+  - first:
+      213: 7350373774200979171
+    second: General Sprites_79
+  - first:
+      213: -5198874350912577098
+    second: General Sprites_80
+  - first:
+      213: -6178524232962027596
+    second: General Sprites_81
+  - first:
+      213: 1298721318546940790
+    second: General Sprites_82
+  - first:
+      213: -4233021713063930978
+    second: General Sprites_83
+  - first:
+      213: -8293114584099884821
+    second: General Sprites_84
+  - first:
+      213: 60492767072770453
+    second: General Sprites_85
+  - first:
+      213: -2918414824891274750
+    second: General Sprites_86
+  - first:
+      213: -4910791871727757585
+    second: General Sprites_87
+  - first:
+      213: 8585142792138255622
+    second: General Sprites_88
+  - first:
+      213: -3157031818304296258
+    second: General Sprites_89
+  - first:
+      213: 7368769266819411387
+    second: General Sprites_90
+  - first:
+      213: -992652804921488308
+    second: General Sprites_91
+  - first:
+      213: 3448765365112884269
+    second: General Sprites_92
+  - first:
+      213: -5877282707845144557
+    second: General Sprites_93
+  - first:
+      213: -2100745681716507585
+    second: General Sprites_94
+  - first:
+      213: 6199492381778854102
+    second: General Sprites_95
+  - first:
+      213: 4848004401672938099
+    second: General Sprites_96
+  - first:
+      213: 7699053709274519892
+    second: General Sprites_97
+  - first:
+      213: -2160056651456883026
+    second: General Sprites_98
+  - first:
+      213: -2536128582840233605
+    second: General Sprites_99
+  - first:
+      213: 457909728629082616
+    second: General Sprites_100
+  - first:
+      213: 6393218482785937462
+    second: General Sprites_101
+  - first:
+      213: -2216481893291446103
+    second: General Sprites_102
+  - first:
+      213: 1120032372368066990
+    second: General Sprites_103
+  - first:
+      213: -6077369908504056056
+    second: General Sprites_104
+  - first:
+      213: -3915523777829816744
+    second: General Sprites_105
+  - first:
+      213: -7303652404172448444
+    second: General Sprites_106
+  - first:
+      213: 4938082250001395899
+    second: General Sprites_107
+  - first:
+      213: 9112853177974959495
+    second: General Sprites_108
+  - first:
+      213: -4536897002137040167
+    second: General Sprites_109
+  - first:
+      213: -7614359226918523238
+    second: General Sprites_110
+  - first:
+      213: -1606440394515600407
+    second: General Sprites_111
+  - first:
+      213: 2402675143040801162
+    second: General Sprites_112
+  - first:
+      213: 1013361983256228177
+    second: General Sprites_113
+  - first:
+      213: 3918574228411751905
+    second: General Sprites_114
+  - first:
+      213: 3979820538758318563
+    second: General Sprites_115
+  - first:
+      213: 5838077279715427651
+    second: General Sprites_116
+  - first:
+      213: -3657421186614407485
+    second: General Sprites_117
+  - first:
+      213: -2127813127515295558
+    second: General Sprites_118
+  - first:
+      213: -8508788382742028524
+    second: General Sprites_119
+  - first:
+      213: 2289901414788021889
+    second: General Sprites_120
+  - first:
+      213: 8590279489910626865
+    second: General Sprites_121
+  - first:
+      213: 5000769194945568556
+    second: General Sprites_122
+  - first:
+      213: -716700350518623722
+    second: General Sprites_123
+  - first:
+      213: -5422892742959089836
+    second: General Sprites_124
+  - first:
+      213: 6431680141591231873
+    second: General Sprites_125
+  - first:
+      213: 9214890487841396686
+    second: General Sprites_126
+  - first:
+      213: 4552321172297720541
+    second: General Sprites_127
+  - first:
+      213: -171502266074039104
+    second: General Sprites_128
+  - first:
+      213: -8410371447891399713
+    second: General Sprites_129
+  - first:
+      213: -7918079828525959917
+    second: General Sprites_130
+  - first:
+      213: -6059322758661364143
+    second: General Sprites_131
+  - first:
+      213: 1041313891457980503
+    second: General Sprites_132
+  - first:
+      213: 5127472119258589821
+    second: General Sprites_133
+  - first:
+      213: -6836002520942620767
+    second: General Sprites_134
+  - first:
+      213: -692909223019220355
+    second: General Sprites_135
+  - first:
+      213: 6371140873595463156
+    second: General Sprites_136
+  - first:
+      213: 5996644659241053343
+    second: General Sprites_137
+  - first:
+      213: -2620095361520186865
+    second: General Sprites_138
+  - first:
+      213: -6517402920912346023
+    second: General Sprites_139
+  - first:
+      213: 6737326021867685213
+    second: General Sprites_140
+  - first:
+      213: -7794026264980246228
+    second: General Sprites_141
+  - first:
+      213: -4657626506027732668
+    second: General Sprites_142
+  - first:
+      213: 3726331646061391567
+    second: General Sprites_143
+  - first:
+      213: -1461756091994788270
+    second: General Sprites_144
+  - first:
+      213: -9021586002038358508
+    second: General Sprites_145
+  - first:
+      213: -3016477637036469942
+    second: General Sprites_146
+  - first:
+      213: 6553216739131611167
+    second: General Sprites_147
+  - first:
+      213: 7426190175946746512
+    second: General Sprites_148
+  - first:
+      213: 2803345438249116029
+    second: General Sprites_149
+  - first:
+      213: -8114781833492884096
+    second: General Sprites_150
+  - first:
+      213: -311841667511220267
+    second: General Sprites_151
+  - first:
+      213: 2683088555519818174
+    second: General Sprites_152
+  - first:
+      213: 235887744976054428
+    second: General Sprites_153
+  - first:
+      213: 880419857767903602
+    second: General Sprites_154
+  - first:
+      213: 1651171940827338146
+    second: General Sprites_155
+  - first:
+      213: -2705305921435519039
+    second: General Sprites_156
+  - first:
+      213: -5731898891441138561
+    second: paco_der_2
+  - first:
+      213: -4438319844933142709
+    second: paco_der_2
+  - first:
+      213: -3899124062792231095
+    second: paco_muerte_12
+  - first:
+      213: -5731898891441138561
+    second: paco_der_1
+  - first:
+      213: -8259879480660917475
+    second: paco_der_2
+  - first:
+      213: -8259879480660917475
+    second: General Sprites_0
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: paco_der_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d130ba300630f5d80800000000000000
+      internalID: -8259879480660917475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paco_muerte_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 143
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9475716c25783e9c0800000000000000
+      internalID: -3899124062792231095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paco_lleno
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 145
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137690eff64ad5330800000000000000
+      internalID: 3701295269678769969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paco_muerte_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 147
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5f0c4d0014a44a0800000000000000
+      internalID: -6608398031387560467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paco_muerte_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 147
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3747cb07201e1ec0800000000000000
+      internalID: -3594417692707698881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paco_muerte_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 147
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99187cea3782da90800000000000000
+      internalID: -7290616159614264931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paco_muerte_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 147
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6169f25641c074cc0800000000000000
+      internalID: -3726996884889299434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paco_muerte_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 146
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065dbd07c7a392a20800000000000000
+      internalID: 3038023729781921120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paco_muerte_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 145
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d548b3123682df0800000000000000
+      internalID: -204804788661756613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paco_muerte_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d950df68edb3cb0800000000000000
+      internalID: -4883064699601183389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paco_muerte_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 144
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6187246549f62a350800000000000000
+      internalID: 6026501934268184598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paco_muerte_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 144
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3923a13b767d95e0800000000000000
+      internalID: -1901233196194649795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paco_izq_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 129
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00d00e386ae2af60800000000000000
+      internalID: 8044249617874866188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paco_izq_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 129
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d73ce5e3657c16b0800000000000000
+      internalID: -5324251587539093548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gordo_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 111
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3058230755187f640800000000000000
+      internalID: 5113698105857049859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gordo_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4d72674b15d0b40800000000000000
+      internalID: 5408068563060118726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gordo_lleno
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656d6b43eac864020800000000000000
+      internalID: 2325700937420035670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paco_default
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 130
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0324b2052e1c110800000000000000
+      internalID: 1279552603100950710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paco_arriba2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8ea6a52ed1db6a0800000000000000
+      internalID: -6431951834798430010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paco_arriba_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 113
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0b69425d0e228d0800000000000000
+      internalID: -2872486406262443802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paco_abajo_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9cb55f5cc3cd8f0800000000000000
+      internalID: -514469436504421912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paco_abajo_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 98
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b995b0051326d4570800000000000000
+      internalID: 8452520039580129691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruta_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 97
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db50f92e6f428f670800000000000000
+      internalID: 8572642533482366397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruta_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 97
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eecca07dd3bde030800000000000000
+      internalID: 3525671846960484069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruta_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 97
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a52080e525333cb0800000000000000
+      internalID: -4885502733970299485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruta_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 97
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bf81669ce42eaf0800000000000000
+      internalID: -368645592582653176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruta_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 96
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d60715542cc46680800000000000000
+      internalID: -8762654518537681192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruta_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 97
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120f449d7c8fcfd00800000000000000
+      internalID: 1007953953851502625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruta_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 96
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579b432bae0e39040800000000000000
+      internalID: 4653310138620623221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruta_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 96
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de0bb46a0572cd40800000000000000
+      internalID: 5603169573902421712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rojo_der_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47138766fc64e55d0800000000000000
+      internalID: -3071940039228771980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rojo_der_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94297b00c208bed40800000000000000
+      internalID: 5614722286926402121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rojo_izq_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba295d0bf3f5d940800000000000000
+      internalID: 5320426794394397373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rojo_izq_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfed2d7609531050800000000000000
+      internalID: 5770053431996575694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rojo_arriba_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55ec1164c1d06da0800000000000000
+      internalID: -5953528066010716834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rojo_arriba_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f4547e3be2ae210800000000000000
+      internalID: 1362953187447099200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rojo_abajo_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e28f96af253bbd0800000000000000
+      internalID: -2615655723098952189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rojo_abajo_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0369d6c3da5185030800000000000000
+      internalID: 3483558145558418992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasma_muerto_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177c241886ab93b00800000000000000
+      internalID: 808882566097717105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasma_muerto_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a897965cb293f3e0800000000000000
+      internalID: -2021110470154938200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasma_muerto_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a941e7d2c4bed20800000000000000
+      internalID: 3308822109506280049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasma_muerto_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab9226ae842aba30800000000000000
+      internalID: 4231734994959244196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rosa_der_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435368f4dcc463670800000000000000
+      internalID: 8518080189904074036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rosa_der_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673f7af367087e850800000000000000
+      internalID: 6406230240320287606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rosa_izq_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badce6f10b23e0540800000000000000
+      internalID: 4975970370313964971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rosa_izq_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e42c3faebd482610800000000000000
+      internalID: 1596611549281920230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rosa_arriba_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380f33f0a813dfd10800000000000000
+      internalID: 2160937865238016131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rosa_arriba_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6babd0ca09c2ce7b0800000000000000
+      internalID: -5193727270391530826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rosa_abajo_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9049a24cb1cea90800000000000000
+      internalID: -7283415968023049736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rosa_abajo_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e233708a688557680800000000000000
+      internalID: -8757996564984155346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasma_negro_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9d51df666bf8080800000000000000
+      internalID: -9182920561736164870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasma_negro_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18f84dffeffea950800000000000000
+      internalID: 6462383921534924831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasma_negro_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277b8f7e86bac5a70800000000000000
+      internalID: 8817110637541373810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasma_negro_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7638cdd08bc990a20800000000000000
+      internalID: 3029124538703840103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azul_der_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af325034a2a1a31e0800000000000000
+      internalID: -2217431097711188998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azul_der_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b22c35ff9ea6080800000000000000
+      internalID: -9193278406492280027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azul_izq_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6612626491962f880800000000000000
+      internalID: -8578678782915370650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azul_izq_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c9a11246d63a670800000000000000
+      internalID: 8548796794498882638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azul_arriba_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cec7e3f725e89d0800000000000000
+      internalID: -2770186014323577720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azul_arriba_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ba7b691ef5156f0800000000000000
+      internalID: -697671044764816508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azul_abajo_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fad36ee1e049ba0800000000000000
+      internalID: -6083221670796087494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: azul_abajo_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140d79172edc87970800000000000000
+      internalID: 8752972248246636609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecd7e2bee55e6c10800000000000000
+      internalID: 2048669364192271596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64fba76a2841f8d0800000000000000
+      internalID: -2814388945164700564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 47
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2215e1e51b7ddabf0800000000000000
+      internalID: -311355642430467806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 47
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff466a762775bb9a0800000000000000
+      internalID: -6216278711777991425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 47
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c616625d16239aea0800000000000000
+      internalID: -5861098044276711060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naranja_der_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3bffa25d971c0f0800000000000000
+      internalID: -1098462877645294686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naranja_der_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40930b222e2ecd620800000000000000
+      internalID: 2800362529190066436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naranja_izq_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab0e9af27cbc2580800000000000000
+      internalID: -8850491965672911968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naranja_izq_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27934786a7d8aa90800000000000000
+      internalID: -7302349685547362514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naranja_arriba_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f0f4dd9d20be3f0800000000000000
+      internalID: -870598968221954203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naranja_arriba_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d7ebf9d217a31f0800000000000000
+      internalID: -1064413921152172661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naranja_abajo_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f77e30ad547d6f0800000000000000
+      internalID: -659982017715798197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naranja_abajo_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9326e39f5539ed0800000000000000
+      internalID: -2408486846731241049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eeb891f006c10660800000000000000
+      internalID: 7350373774200979171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b167f99253e9d7b0800000000000000
+      internalID: -5198874350912577098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfc72202f8714aa0800000000000000
+      internalID: -6178524232962027596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 16
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673a736882cf50210800000000000000
+      internalID: 1298721318546940790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 16
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e931f42fd294145c0800000000000000
+      internalID: -4233021713063930978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 31
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be07d1d7930f8ec80800000000000000
+      internalID: -8293114584099884821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5995ad4e9d9e6d000800000000000000
+      internalID: 60492767072770453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: General Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a2f1fdd25bf77d0800000000000000
+      internalID: -2918414824891274750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paco_muerte_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 144
+        width: 3
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b477133cd9be762c0800000000000000
+      internalID: -4438319844933142709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paco_der_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 145
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74123fb3543470b0800000000000000
+      internalID: -5731898891441138561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
