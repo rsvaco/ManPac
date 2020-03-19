@@ -22,9 +22,9 @@ public class GameController : MonoBehaviour
         for (int i = 0; i < numJugadores; i++)
         {
             GameObject paco = Instantiate(pacoPrefab, spawns[i].transform.position, Quaternion.identity);
-            //paco.GetComponent<SpriteRenderer>().color = colors[i];
+            paco.GetComponent<SpriteRenderer>().color = colors[i];
             GameObject fant = Instantiate(fantasmaPrefab, spawnsFantasmas[i].transform.position, Quaternion.identity);
-            //fant.GetComponent<SpriteRenderer>().color = colors[i];
+            fant.GetComponent<SpriteRenderer>().color = colors[i];
         }
     }
 
