@@ -4030,7 +4030,7 @@ Tilemap:
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
-      m_AllTileFlags: 2147483650
+      m_AllTileFlags: 1073741826
   m_AnimatedTiles: {}
   m_TileAssetArray:
   - m_RefCount: 374
@@ -4066,7 +4066,7 @@ Tilemap:
     m_Data: {fileID: -3368579334082683246, guid: afc7f73132026624fa79fb8a7caf3921,
       type: 3}
   - m_RefCount: 1
-    m_Data: {fileID: 3219003535604507806, guid: afc7f73132026624fa79fb8a7caf3921,
+    m_Data: {fileID: 4241616438987859726, guid: afc7f73132026624fa79fb8a7caf3921,
       type: 3}
   - m_RefCount: 120
     m_Data: {fileID: 1675395105524371868, guid: afc7f73132026624fa79fb8a7caf3921,
@@ -4288,11 +4288,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   colors:
-  - {r: 1, g: 0.98664254, b: 0, a: 0}
-  - {r: 1, g: 0, b: 0, a: 0}
-  - {r: 0, g: 0.8549175, b: 1, a: 0}
-  - {r: 0.9245283, g: 0.501513, b: 0.7652755, a: 0}
-  numJugadores: 2
+  - {r: 1, g: 0.98664254, b: 0, a: 1}
+  - {r: 1, g: 0, b: 0, a: 1}
+  - {r: 0, g: 0.8549175, b: 1, a: 1}
+  - {r: 0.9245283, g: 0.501513, b: 0.7652755, a: 1}
+  numJugadores: 1
   spawns:
   - {fileID: 98961439}
   - {fileID: 1549775856}
