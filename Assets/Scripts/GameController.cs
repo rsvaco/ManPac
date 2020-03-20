@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class GameController : MonoBehaviour
 {
@@ -14,6 +15,9 @@ public class GameController : MonoBehaviour
 
     public GameObject pacoPrefab;
     public GameObject fantasmaPrefab;
+
+    public GameObject scoreObject;
+    private int score = 0;
 
 
     // Start is called before the first frame update
@@ -32,5 +36,23 @@ public class GameController : MonoBehaviour
     void Update()
     {
         
+    }
+
+    public void addScore()
+    {
+        score++;
+        if(score < 10)
+        {
+            scoreObject.GetComponent<TextMeshProUGUI>().text = "00" + score.ToString();
+
+        }
+        else if(score < 100)
+        {
+            scoreObject.GetComponent<TextMeshProUGUI>().text = "0" + score.ToString();
+        }
+        else
+        {
+            scoreObject.GetComponent<TextMeshProUGUI>().text = score.ToString();
+        }        
     }
 }
