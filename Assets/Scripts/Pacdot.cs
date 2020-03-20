@@ -4,8 +4,16 @@ using UnityEngine;
 
 public class Pacdot : MonoBehaviour
 {
-    [SerializeField]
-    private GameObject gameController;
+    private GameController gameController;
+
+    void Start() 
+    {
+             gameController = GameObject.FindGameObjectWithTag("GameController").GetComponent<GameController>();
+    }
+    void Update()
+    {
+
+    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -15,6 +23,6 @@ public class Pacdot : MonoBehaviour
             gameController.GetComponent<GameController>().addScore();
         }
     }
-
+ 
     
 }
