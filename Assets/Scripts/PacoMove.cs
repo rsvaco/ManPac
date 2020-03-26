@@ -6,6 +6,7 @@ public class PacoMove : MonoBehaviour
     private Animator anim;
     public float speed = 0.4f;
     Vector2 dest = Vector2.zero;
+    public int playerNumber = 0;
 
     void Start()
     {
@@ -26,18 +27,17 @@ public class PacoMove : MonoBehaviour
         // Move closer to Destination
         Vector2 p = Vector2.MoveTowards(transform.position, dest, speed);
         GetComponent<Rigidbody2D>().MovePosition(p);
-
         // Check for Input if not moving
         if ((Vector2)transform.position == dest)
         {
-            if (Input.GetKey(KeyCode.UpArrow) && valid(Vector2.up))
+            if (Input.GetAxisRaw("player"+playerNumber+"_vertical") > 0 && valid(Vector2.up))
             {
                 dest = (Vector2)transform.position + Vector2.up;
                 anim.SetInteger("dirY", 1);
                 anim.SetInteger("dirX", 0);
             }
 
-            if (Input.GetKey(KeyCode.RightArrow) && valid(Vector2.right))
+            if (Input.GetAxisRaw("player"+playerNumber+"_horizontal") > 0 && valid(Vector2.right))
             {
                 dest = (Vector2)transform.position + Vector2.right;
                 anim.SetInteger("dirY", 0);
@@ -45,7 +45,7 @@ public class PacoMove : MonoBehaviour
             }
 
 
-            if (Input.GetKey(KeyCode.DownArrow) && valid(-Vector2.up))
+            if (Input.GetAxisRaw("player"+playerNumber+"_vertical") < 0 && valid(-Vector2.up))
             {
                 dest = (Vector2)transform.position - Vector2.up;
                 anim.SetInteger("dirY", -1);
@@ -53,7 +53,7 @@ public class PacoMove : MonoBehaviour
             }
 
 
-            if (Input.GetKey(KeyCode.LeftArrow) && valid(-Vector2.right))
+            if (Input.GetAxisRaw("player"+playerNumber+"_horizontal") < 0 && valid(-Vector2.right))
             {
                 dest = (Vector2)transform.position - Vector2.right;
                 anim.SetInteger("dirY", 0);
