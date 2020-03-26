@@ -315,7 +315,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 13.916667
+  orthographic size: 14
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -3877,7 +3877,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 0
-      m_TileSpriteIndex: 11
+      m_TileSpriteIndex: 20
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -3914,9 +3914,8 @@ Tilemap:
     m_Data: {fileID: 0}
   - m_RefCount: 0
     m_Data: {fileID: 0}
-  - m_RefCount: 1
-    m_Data: {fileID: 4241616438987859726, guid: afc7f73132026624fa79fb8a7caf3921,
-      type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 0
     m_Data: {fileID: 0}
   - m_RefCount: 0
@@ -3939,8 +3938,9 @@ Tilemap:
   - m_RefCount: 4
     m_Data: {fileID: 1975295537473352586, guid: 7830d863661e1634e8061a5d2157cbb6,
       type: 3}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
+  - m_RefCount: 1
+    m_Data: {fileID: 4241616438987859726, guid: afc7f73132026624fa79fb8a7caf3921,
+      type: 3}
   - m_RefCount: 1
     m_Data: {fileID: 8077812962815226608, guid: 7830d863661e1634e8061a5d2157cbb6,
       type: 3}
@@ -4060,7 +4060,7 @@ Tilemap:
   - m_RefCount: 0
     m_Data: {fileID: 0}
   m_AnimationFrameRate: 1
-  m_Color: {r: 0.6509434, g: 0.14431292, b: 0.14431292, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_Origin: {x: -418, y: -14, z: 0}
   m_Size: {x: 431, y: 267, z: 1}
   m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
@@ -7882,7 +7882,7 @@ Tilemap:
   - m_RefCount: 0
     m_Data: {fileID: 0}
   m_AnimationFrameRate: 1
-  m_Color: {r: 0, g: 0.122285366, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Origin: {x: -418, y: -14, z: 0}
   m_Size: {x: 431, y: 267, z: 1}
   m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
@@ -7980,10 +7980,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   colors:
-  - {r: 1, g: 0.98664254, b: 0, a: 1}
+  - {r: 1, g: 1, b: 0, a: 1}
   - {r: 1, g: 0, b: 0, a: 1}
-  - {r: 0, g: 0.8549175, b: 1, a: 1}
-  - {r: 0.9245283, g: 0.501513, b: 0.7652755, a: 1}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
   numJugadores: 4
   spawns:
   - {fileID: 98961439}
@@ -8000,6 +8000,10 @@ MonoBehaviour:
   fantasmaPrefab: {fileID: 3039605659951862323, guid: 7645ec2c13e16b548b31fa0a3f873711,
     type: 3}
   scoreObject: {fileID: 1185125091}
+  foregroudColor: {r: 0.18462314, g: 0.108134575, b: 0.8490566, a: 1}
+  backgroundColor: {r: 0.6981132, g: 0.17653826, b: 0.11525452, a: 1}
+  foregroundTileMap: {fileID: 1345362666}
+  backgroundTileMap: {fileID: 641281096}
 --- !u!4 &1543002946
 Transform:
   m_ObjectHideFlags: 0

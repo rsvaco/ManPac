@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.Tilemaps;
 
 public class GameController : MonoBehaviour
 {
@@ -18,6 +19,8 @@ public class GameController : MonoBehaviour
 
     public GameObject scoreObject;
     private int score = 0;
+    public Color foregroudColor, backgroundColor;
+    public Tilemap foregroundTileMap, backgroundTileMap;
 
 
     // Start is called before the first frame update
@@ -31,6 +34,10 @@ public class GameController : MonoBehaviour
             GameObject fant = Instantiate(fantasmaPrefab, spawnsFantasmas[i].transform.position, Quaternion.identity);
             fant.GetComponent<SpriteRenderer>().color = colors[i];
         }
+
+        foregroundTileMap.color = foregroudColor;
+        backgroundTileMap.color = backgroundColor;
+
     }
 
     // Update is called once per frame
