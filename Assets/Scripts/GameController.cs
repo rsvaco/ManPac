@@ -33,6 +33,7 @@ public class GameController : MonoBehaviour
             paco.GetComponent<PacoMove>().playerNumber = i+1;
             GameObject fant = Instantiate(fantasmaPrefab, spawnsFantasmas[i].transform.position, Quaternion.identity);
             fant.GetComponent<SpriteRenderer>().color = colors[i];
+            fant.GetComponent<Fantasma>().numero = i;
         }
 
         foregroundTileMap.color = foregroudColor;
