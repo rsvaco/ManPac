@@ -7,6 +7,7 @@ using UnityEngine.Tilemaps;
 public class GameController : MonoBehaviour
 {
     public Color[] colors;
+    public bool useGlobalOptionsColors = false;
 
     [RangeAttribute(0, 4)]
     public int numJugadores;
@@ -21,11 +22,21 @@ public class GameController : MonoBehaviour
     private int score = 0;
     public Color foregroudColor, backgroundColor;
     public Tilemap foregroundTileMap, backgroundTileMap;
+    private GlobalOptions globalOptions;
 
 
     // Start is called before the first frame update
     void Start()
     {
+        globalOptions = GameObject.Find("GlobalOptions").GetComponent<GlobalOptions>();
+
+        if (useGlobalOptionsColors) for (int i = 0; i < 4; i++) {
+                colors[i] = globalOptions.playerColors[i];
+                foregroudColor = globalOptions.mainColor;
+                backgroundColor = globalOptions.backColor;
+        }
+
+
         for (int i = 0; i < numJugadores; i++)
         {
             GameObject paco = Instantiate(pacoPrefab, spawns[i].transform.position, Quaternion.identity);
