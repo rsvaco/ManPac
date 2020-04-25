@@ -20,8 +20,9 @@ public class Pacdot : MonoBehaviour
         Debug.Log("COLISIÓN");
         if(collision.tag == "Player")
         {
+            gameController.addScore(collision.gameObject.GetComponent<Paco>().equipo);
+
             Destroy(gameObject);
-            gameController.addScore();
         }
     }
  
