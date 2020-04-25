@@ -17,10 +17,11 @@ public class Pacdot : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        Debug.Log("COLISIÓN");
         if(collision.tag == "Player")
         {
             Destroy(gameObject);
-            gameController.GetComponent<GameController>().addScore();
+            gameController.addScore();
         }
     }
  

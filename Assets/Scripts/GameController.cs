@@ -18,8 +18,8 @@ public class GameController : MonoBehaviour
     public GameObject pacoPrefab;
     public GameObject fantasmaPrefab;
 
-    public GameObject scoreObject;
-    private int score = 0;
+    public GameObject[] scoreObject;
+    private int[] score = { 0, 0, 0, 0 };
     public Color foregroudColor, backgroundColor;
     public Tilemap foregroundTileMap, backgroundTileMap;
     private GlobalOptions globalOptions;
@@ -58,21 +58,21 @@ public class GameController : MonoBehaviour
         
     }
 
-    public void addScore()
+    public void addScore(int equipo)
     {
-        score++;
-        if(score < 10)
+        score[equipo]++;
+        if(score[equipo] < 10)
         {
-            scoreObject.GetComponent<TextMeshProUGUI>().text = "00" + score.ToString();
+            scoreObject[equipo].GetComponent<TextMeshProUGUI>().text = "00" + score.ToString();
 
         }
-        else if(score < 100)
+        else if(score[equipo] < 100)
         {
-            scoreObject.GetComponent<TextMeshProUGUI>().text = "0" + score.ToString();
+            scoreObject[equipo].GetComponent<TextMeshProUGUI>().text = "0" + score.ToString();
         }
         else
         {
-            scoreObject.GetComponent<TextMeshProUGUI>().text = score.ToString();
+            scoreObject[equipo].GetComponent<TextMeshProUGUI>().text = score.ToString();
         }        
     }
 }
