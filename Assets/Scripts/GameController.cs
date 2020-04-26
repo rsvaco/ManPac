@@ -20,7 +20,7 @@ public class GameController : MonoBehaviour
 
     public GameObject[] scoreObject;
     public int[] vidas = { 3, 3, 3, 3 };
-    private int[] score = { 0, 0, 0, 0 };
+    public int[] score = { 0, 0, 0, 0 };
     public Color foregroudColor, backgroundColor;
     public Tilemap foregroundTileMap, backgroundTileMap;
     private GlobalOptions globalOptions;
