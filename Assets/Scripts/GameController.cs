@@ -28,12 +28,17 @@ public class GameController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        globalOptions = GameObject.Find("GlobalOptions").GetComponent<GlobalOptions>();
 
-        if (useGlobalOptionsColors) for (int i = 0; i < 4; i++) {
+        if (useGlobalOptionsColors)
+        {
+            globalOptions = GameObject.Find("GlobalOptions").GetComponent<GlobalOptions>();
+            for (int i = 0; i < 4; i++)
+            {
                 colors[i] = globalOptions.playerColors[i];
                 foregroudColor = globalOptions.mainColor;
                 backgroundColor = globalOptions.backColor;
+                numJugadores = globalOptions.numJugadores;
+            }
         }
 
 
@@ -42,9 +47,11 @@ public class GameController : MonoBehaviour
             GameObject paco = Instantiate(pacoPrefab, spawns[i].transform.position, Quaternion.identity);
             paco.GetComponent<SpriteRenderer>().color = colors[i];
             paco.GetComponent<PacoMove>().playerNumber = i+1;
+            paco.GetComponent<Paco>().equipo = i;
             GameObject fant = Instantiate(fantasmaPrefab, spawnsFantasmas[i].transform.position, Quaternion.identity);
             fant.GetComponent<SpriteRenderer>().color = colors[i];
             fant.GetComponent<Fantasma>().numero = i;
+            scoreObject[i].GetComponent<TextMeshProUGUI>().color = colors[i];
         }
 
         foregroundTileMap.color = foregroudColor;
@@ -63,16 +70,16 @@ public class GameController : MonoBehaviour
         score[equipo]++;
         if(score[equipo] < 10)
         {
-            scoreObject[equipo].GetComponent<TextMeshProUGUI>().text = "00" + score.ToString();
+            scoreObject[equipo].GetComponent<TextMeshProUGUI>().text = "00" + score[equipo].ToString();
 
         }
         else if(score[equipo] < 100)
         {
-            scoreObject[equipo].GetComponent<TextMeshProUGUI>().text = "0" + score.ToString();
+            scoreObject[equipo].GetComponent<TextMeshProUGUI>().text = "0" + score[equipo].ToString();
         }
         else
         {
-            scoreObject[equipo].GetComponent<TextMeshProUGUI>().text = score.ToString();
+            scoreObject[equipo].GetComponent<TextMeshProUGUI>().text = score[equipo].ToString();
         }        
     }
 }
