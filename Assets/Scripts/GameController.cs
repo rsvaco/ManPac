@@ -25,6 +25,11 @@ public class GameController : MonoBehaviour
     public Tilemap foregroundTileMap, backgroundTileMap;
     private GlobalOptions globalOptions;
     private GameObject[] pacos = new GameObject[4];
+    private int tiempoMax;
+    private int tiempoRestante;
+    private int elapsed = 0;
+
+    public GameObject timer;
 
 
     // Start is called before the first frame update
@@ -40,6 +45,8 @@ public class GameController : MonoBehaviour
                 foregroudColor = globalOptions.mainColor;
                 backgroundColor = globalOptions.backColor;
                 numJugadores = globalOptions.numJugadores;
+                tiempoMax = globalOptions.segundosMax;
+                tiempoRestante = tiempoMax;
             }
         }
 
@@ -71,6 +78,30 @@ public class GameController : MonoBehaviour
             tmp.score = score[i];
             scoreObject[i].GetComponent<InterfaceController>().lives = vidas[i];
         }
+
+        //timer
+        elapsed = (int) Time.time;
+        tiempoRestante = Mathf.Max(tiempoMax - elapsed, 0);
+        if (tiempoRestante == 0) {
+            fin();
+        }
+
+        timer.GetComponent<TextMeshProUGUI>().text = formatearTiempo(tiempoRestante);
+    }
+
+    private string formatearTiempo(int segundosTotal)
+    {
+        int minutos = (int)Mathf.Floor(segundosTotal / 60);
+        int segundos = segundosTotal % 60;
+        string stringSegundos = "00" + segundos;
+        stringSegundos = stringSegundos.Substring(stringSegundos.Length - 2);
+        string text = "" + minutos + ":" + stringSegundos;
+        return text;
+    }
+
+    private bool fin() {
+
+        return true;
     }
 
     public void addScore(int equipo)
@@ -84,6 +115,13 @@ public class GameController : MonoBehaviour
         if (vidas[equipo] != 0) pacos[equipo].GetComponent<PacoMove>().respawn();
         else GameObject.Destroy(pacos[equipo]);
 
+        //comprobar si queda algun equipo vivo
+        //si no, terminar partida
+        bool todosMuertos = true;
+        foreach (int v in vidas) {
+            if (v > 0) { todosMuertos = false; }
+        }
+        if (todosMuertos) { fin(); }
     }
 
 }

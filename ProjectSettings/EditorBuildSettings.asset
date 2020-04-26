@@ -12,6 +12,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Opciones.unity
     guid: ccba61919fea306429f196083617746b
   - enabled: 1
+    path: Assets/Scenes/ConfigurarPartida.unity
+    guid: 6ea4c1e1bbc741e4aa89907c5bfddb38
+  - enabled: 1
     path: Assets/Scenes/PlayTest.unity
     guid: b30ec2d5a1539234984d15bae9d3df7a
+  - enabled: 1
+    path: Assets/Scenes/Play3P.unity
+    guid: bc4619f0e3de30a4db083c4c0c903921
   m_configObjects: {}
