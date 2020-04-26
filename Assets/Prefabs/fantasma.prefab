@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 6774681917408257124}
   - component: {fileID: 2904441736490636863}
   - component: {fileID: 3561626557477001694}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: fantasma
   m_TagString: Fantasma
   m_Icon: {fileID: 0}
@@ -168,7 +168,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3039605660877731187}
   - component: {fileID: 3039605660877731186}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: ojos
   m_TagString: Untagged
   m_Icon: {fileID: 0}

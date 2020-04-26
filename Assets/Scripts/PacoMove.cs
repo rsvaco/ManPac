@@ -5,8 +5,9 @@ public class PacoMove : MonoBehaviour
 {
     private Animator anim;
     public float speed = 0.4f;
-    Vector2 dest = Vector2.zero;
+    public Vector2 dest = Vector2.zero;
     public int playerNumber = 0;
+    public bool teleporting = false;
 
     void Start()
     {
@@ -24,6 +25,7 @@ public class PacoMove : MonoBehaviour
 
     void FixedUpdate()
     {
+        if (teleporting) return;
         // Move closer to Destination
         Vector2 p = Vector2.MoveTowards(transform.position, dest, speed);
         GetComponent<Rigidbody2D>().MovePosition(p);

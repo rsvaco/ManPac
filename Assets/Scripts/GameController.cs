@@ -51,6 +51,7 @@ public class GameController : MonoBehaviour
             GameObject fant = Instantiate(fantasmaPrefab, spawnsFantasmas[i].transform.position, Quaternion.identity);
             fant.GetComponent<SpriteRenderer>().color = colors[i];
             fant.GetComponent<Fantasma>().numero = i;
+            fant.GetComponent<Fantasma>().equipo = i;
             scoreObject[i].GetComponent<TextMeshProUGUI>().color = colors[i];
         }
 

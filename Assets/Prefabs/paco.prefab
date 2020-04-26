@@ -166,6 +166,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.4
+  dest: {x: 0, y: 0}
+  playerNumber: 0
+  teleporting: 0
 --- !u!114 &7598825136682902063
 MonoBehaviour:
   m_ObjectHideFlags: 0

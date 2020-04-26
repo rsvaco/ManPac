@@ -17,7 +17,6 @@ public class Pacdot : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("COLISIÓN");
         if(collision.tag == "Player")
         {
             gameController.addScore(collision.gameObject.GetComponent<Paco>().equipo);

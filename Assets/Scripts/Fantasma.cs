@@ -41,8 +41,9 @@ public class Fantasma : MonoBehaviour
     }
     void OnTriggerEnter2D(Collider2D co)
     {
-        if (co.name == "paco(Clone)")
+        if (co.tag == "Player")
         {
+            if (co.gameObject.GetComponent<Paco>().equipo == equipo) return;
             Destroy(co.gameObject);
             co.GetComponent<Animator>().SetBool("muerte", true);
         }            
