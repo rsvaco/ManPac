@@ -14,6 +14,9 @@ public class GlobalOptions : MonoBehaviour
     public int numJugadores = 4;
     public int segundosMax = 2 * 60;
 
+    //Volume
+    public float musicVolume = 1.0f, effectsVolume = 1.0f;
+
     /**********************/
     void Start() {
         if (instance == null) {
