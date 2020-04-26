@@ -11,14 +11,16 @@ public class ConfigurarPartida : MonoBehaviour
     //mantener mismo orden
     public GameObject[] listaImagenes;
     public int[] listaImagenesOrdenDeCarga;
+    public int[] maxJugadoresMapa;
 
 
     private int numJugadores = 1;
     private int segundosTotal = 120;
     private int mapaSeleccionado = 0;
 
-    public TextMeshProUGUI text_jugadores, text_segundos;
+    public TextMeshProUGUI text_jugadores, text_segundos, text_maxJugadores;
     public GameObject img_mapa;
+    public Button playButton;
 
     public void addSegundos(int cantidad) {
         segundosTotal = Mathf.Min(segundosMax, segundosTotal + cantidad);
@@ -66,12 +68,14 @@ public class ConfigurarPartida : MonoBehaviour
             if (i == mapaSeleccionado)
             {
                 listaImagenes[i].SetActive(true);
+                text_maxJugadores.text = "max: " + maxJugadoresMapa[i] + " jugadores";
             }
             else {
                 listaImagenes[i].SetActive(false);
             }
         }
-    }
+        
+    } 
 
     public void addJugadores(int cantidad)
     {
