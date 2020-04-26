@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class ConfigurarPartida : MonoBehaviour
@@ -17,6 +18,8 @@ public class ConfigurarPartida : MonoBehaviour
     private int numJugadores = 1;
     private int segundosTotal = 120;
     private int mapaSeleccionado = 0;
+
+    private GlobalOptions globalOptions;
 
     public TextMeshProUGUI text_jugadores, text_segundos, text_maxJugadores;
     public GameObject img_mapa;
@@ -74,25 +77,55 @@ public class ConfigurarPartida : MonoBehaviour
                 listaImagenes[i].SetActive(false);
             }
         }
-        
+
+        if (numJugadores > maxJugadoresMapa[mapaSeleccionado])
+        {
+            playButton.gameObject.SetActive(false);
+        }
+        else
+        {
+            playButton.gameObject.SetActive(true);
+        }
     } 
 
     public void addJugadores(int cantidad)
     {
         numJugadores = Mathf.Min(4, numJugadores + cantidad);
-        text_jugadores.text = numJugadores.ToString();
+        updateJugadores();
     }
 
     public void quitarJugadores(int cantidad)
     {
         numJugadores = Mathf.Max(1, numJugadores - cantidad);
-        text_jugadores.text = numJugadores.ToString();
+        updateJugadores();
     }
 
+    private void updateJugadores() {
+        text_jugadores.text = numJugadores.ToString();
+        if (numJugadores > maxJugadoresMapa[mapaSeleccionado])
+        {
+            playButton.gameObject.SetActive(false);
+        }
+        else
+        {
+            playButton.gameObject.SetActive(true);
+        }
+        globalOptions.numJugadores = numJugadores;
+    }
+
+    private void loadScene() {
+        globalOptions.numJugadores = numJugadores;
+        SceneManager.LoadScene(listaImagenesOrdenDeCarga[mapaSeleccionado]);
+    }
 
     void Start()
     {
-        text_jugadores.text = numJugadores.ToString();
+        Button btn = playButton.GetComponent<Button>();
+        btn.onClick.AddListener(loadScene);
+
+        globalOptions = GameObject.Find("GlobalOptions").GetComponent<GlobalOptions>();
+
+        updateJugadores();
         updateSegundos();
         updateMapa();
     }
