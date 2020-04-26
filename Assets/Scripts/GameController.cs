@@ -19,10 +19,12 @@ public class GameController : MonoBehaviour
     public GameObject fantasmaPrefab;
 
     public GameObject[] scoreObject;
+    public int[] vidas = { 3, 3, 3, 3 };
     private int[] score = { 0, 0, 0, 0 };
     public Color foregroudColor, backgroundColor;
     public Tilemap foregroundTileMap, backgroundTileMap;
     private GlobalOptions globalOptions;
+    private GameObject[] pacos = new GameObject[4];
 
 
     // Start is called before the first frame update
@@ -44,15 +46,16 @@ public class GameController : MonoBehaviour
 
         for (int i = 0; i < numJugadores; i++)
         {
-            GameObject paco = Instantiate(pacoPrefab, spawns[i].transform.position, Quaternion.identity);
-            paco.GetComponent<SpriteRenderer>().color = colors[i];
-            paco.GetComponent<PacoMove>().playerNumber = i+1;
-            paco.GetComponent<Paco>().equipo = i;
+            pacos[i] = Instantiate(pacoPrefab, spawns[i].transform.position, Quaternion.identity);
+            pacos[i].GetComponent<SpriteRenderer>().color = colors[i];
+            pacos[i].GetComponent<PacoMove>().playerNumber = i+1;
+            pacos[i].GetComponent<PacoMove>().spawn = spawns[i].transform.position;
+            pacos[i].GetComponent<Paco>().equipo = i;
             GameObject fant = Instantiate(fantasmaPrefab, spawnsFantasmas[i].transform.position, Quaternion.identity);
             fant.GetComponent<SpriteRenderer>().color = colors[i];
             fant.GetComponent<Fantasma>().numero = i;
             fant.GetComponent<Fantasma>().equipo = i;
-            scoreObject[i].GetComponent<TextMeshProUGUI>().color = colors[i];
+            scoreObject[i].GetComponent<InterfaceController>().playerColor = colors[i];
         }
 
         foregroundTileMap.color = foregroudColor;
@@ -63,24 +66,24 @@ public class GameController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        for (int i = 0; i < numJugadores; i++) {
+            InterfaceController tmp = scoreObject[i].GetComponent<InterfaceController>();
+            tmp.score = score[i];
+            scoreObject[i].GetComponent<InterfaceController>().lives = vidas[i];
+        }
     }
 
     public void addScore(int equipo)
     {
         score[equipo]++;
-        if(score[equipo] < 10)
-        {
-            scoreObject[equipo].GetComponent<TextMeshProUGUI>().text = "00" + score[equipo].ToString();
-
-        }
-        else if(score[equipo] < 100)
-        {
-            scoreObject[equipo].GetComponent<TextMeshProUGUI>().text = "0" + score[equipo].ToString();
-        }
-        else
-        {
-            scoreObject[equipo].GetComponent<TextMeshProUGUI>().text = score[equipo].ToString();
-        }        
     }
+
+    public void pacoMuerto(int equipo) // Abono pa mi huerto.
+    {
+        vidas[equipo]--;
+        if (vidas[equipo] != 0) pacos[equipo].GetComponent<PacoMove>().respawn();
+        else GameObject.Destroy(pacos[equipo]);
+
+    }
+
 }

@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System;
 
 public class PacoMove : MonoBehaviour
 {
@@ -8,6 +9,7 @@ public class PacoMove : MonoBehaviour
     public Vector2 dest = Vector2.zero;
     public int playerNumber = 0;
     public bool teleporting = false;
+    public Vector3 spawn;
 
     void Start()
     {
@@ -63,5 +65,11 @@ public class PacoMove : MonoBehaviour
             }
 
         }
+    }
+
+    internal void respawn()
+    {
+        dest = spawn;
+        gameObject.transform.position = new Vector3(spawn.x, spawn.y, gameObject.transform.position.z);
     }
 }

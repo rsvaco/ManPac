@@ -39,13 +39,13 @@ public class Fantasma : MonoBehaviour
         this.GetComponent<Animator>().SetFloat("dirX", dir.x);
         this.GetComponent<Animator>().SetFloat("dirY", dir.y);
     }
+
     void OnTriggerEnter2D(Collider2D co)
     {
         if (co.tag == "Player")
         {
             if (co.gameObject.GetComponent<Paco>().equipo == equipo) return;
-            Destroy(co.gameObject);
-            co.GetComponent<Animator>().SetBool("muerte", true);
+            GameObject.FindGameObjectWithTag("GameController").GetComponent<GameController>().pacoMuerto(co.gameObject.GetComponent<Paco>().equipo);
         }            
     }
 }
