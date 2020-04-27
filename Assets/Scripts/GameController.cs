@@ -28,6 +28,7 @@ public class GameController : MonoBehaviour
     private int tiempoMax;
     private int tiempoRestante;
     private int elapsed = 0;
+    public bool fin = false;
 
     public GameObject timer;
 
@@ -39,7 +40,7 @@ public class GameController : MonoBehaviour
         if (useGlobalOptionsColors)
         {
             globalOptions = GameObject.Find("GlobalOptions").GetComponent<GlobalOptions>();
-            for (int i = 0; i < 4; i++)
+            for (int i = 0; i < numJugadores; i++)
             {
                 colors[i] = globalOptions.playerColors[i];
                 foregroudColor = globalOptions.mainColor;
@@ -83,7 +84,7 @@ public class GameController : MonoBehaviour
         elapsed = (int) Time.time;
         tiempoRestante = Mathf.Max(tiempoMax - elapsed, 0);
         if (tiempoRestante == 0) {
-            fin();
+            fin = true;
         }
 
         timer.GetComponent<TextMeshProUGUI>().text = formatearTiempo(tiempoRestante);
@@ -99,11 +100,6 @@ public class GameController : MonoBehaviour
         return text;
     }
 
-    private bool fin() {
-
-        return true;
-    }
-
     public void addScore(int equipo)
     {
         score[equipo]++;
@@ -117,11 +113,11 @@ public class GameController : MonoBehaviour
 
         //comprobar si queda algun equipo vivo
         //si no, terminar partida
-        bool todosMuertos = true;
+        int vidasTotales = 0;
         foreach (int v in vidas) {
-            if (v > 0) { todosMuertos = false; }
+            vidasTotales += v;
         }
-        if (todosMuertos) { fin(); }
+        if (vidasTotales <= ((4 - numJugadores) * 3)) { fin = true; }
     }
 
 }

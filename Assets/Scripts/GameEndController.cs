@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameEndController : MonoBehaviour
 {
@@ -20,6 +21,8 @@ public class GameEndController : MonoBehaviour
 
     void Update()
     {
+        show = gameController.fin;
+
         child.SetActive(show);
         if (!show && processed) processed = false;
         if (show && !processed)
@@ -65,5 +68,10 @@ public class GameEndController : MonoBehaviour
             processed = true;
             Debug.Log("PROCESSED");
         }
+    }
+
+    public void ExitLevel()
+    {
+        SceneManager.LoadScene(0);
     }
 }
