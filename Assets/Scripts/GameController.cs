@@ -18,6 +18,8 @@ public class GameController : MonoBehaviour
     public GameObject pacoPrefab;
     public GameObject fantasmaPrefab;
 
+    public GameObject[] waypoints;
+
     public GameObject[] scoreObject;
     public int[] vidas = { 3, 3, 3, 3 };
     public int[] score = { 0, 0, 0, 0 };

@@ -42,6 +42,7 @@ public class ConfigurarPartida : MonoBehaviour
         string stringSegundos = "00" + segundos;
         stringSegundos = stringSegundos.Substring(stringSegundos.Length - 2);
         text_segundos.text = "" + minutos + ":" + stringSegundos;
+        globalOptions.segundosMax = segundosTotal;
     }
 
     public void siguienteMapa() {

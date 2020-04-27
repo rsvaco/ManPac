@@ -34,14 +34,14 @@ public class PacoMove : MonoBehaviour
         // Check for Input if not moving
         if ((Vector2)transform.position == dest)
         {
-            if (Input.GetAxisRaw("player"+playerNumber+"_vertical") > 0 && valid(Vector2.up))
+            if (Input.GetAxisRaw("player" + playerNumber + "_vertical") > 0 && valid(Vector2.up))
             {
                 dest = (Vector2)transform.position + Vector2.up;
                 anim.SetInteger("dirY", 1);
                 anim.SetInteger("dirX", 0);
             }
 
-            if (Input.GetAxisRaw("player"+playerNumber+"_horizontal") > 0 && valid(Vector2.right))
+            else if (Input.GetAxisRaw("player" + playerNumber + "_horizontal") > 0 && valid(Vector2.right))
             {
                 dest = (Vector2)transform.position + Vector2.right;
                 anim.SetInteger("dirY", 0);
@@ -49,7 +49,7 @@ public class PacoMove : MonoBehaviour
             }
 
 
-            if (Input.GetAxisRaw("player"+playerNumber+"_vertical") < 0 && valid(-Vector2.up))
+            else if (Input.GetAxisRaw("player" + playerNumber + "_vertical") < 0 && valid(-Vector2.up))
             {
                 dest = (Vector2)transform.position - Vector2.up;
                 anim.SetInteger("dirY", -1);
@@ -57,11 +57,15 @@ public class PacoMove : MonoBehaviour
             }
 
 
-            if (Input.GetAxisRaw("player"+playerNumber+"_horizontal") < 0 && valid(-Vector2.right))
+            else if (Input.GetAxisRaw("player" + playerNumber + "_horizontal") < 0 && valid(-Vector2.right))
             {
                 dest = (Vector2)transform.position - Vector2.right;
                 anim.SetInteger("dirY", 0);
                 anim.SetInteger("dirX", -1);
+            }
+            else {
+                anim.SetInteger("dirY", 0);
+                anim.SetInteger("dirX", 0);
             }
 
         }
