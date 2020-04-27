@@ -10,6 +10,7 @@ public class PacoMove : MonoBehaviour
     public int playerNumber = 0;
     public bool teleporting = false;
     public Vector3 spawn;
+    public bool moviendose;
 
     void Start()
     {
@@ -39,6 +40,7 @@ public class PacoMove : MonoBehaviour
                 dest = (Vector2)transform.position + Vector2.up;
                 anim.SetInteger("dirY", 1);
                 anim.SetInteger("dirX", 0);
+                moviendose = true;
             }
 
             else if (Input.GetAxisRaw("player" + playerNumber + "_horizontal") > 0 && valid(Vector2.right))
@@ -46,6 +48,7 @@ public class PacoMove : MonoBehaviour
                 dest = (Vector2)transform.position + Vector2.right;
                 anim.SetInteger("dirY", 0);
                 anim.SetInteger("dirX", 1);
+                moviendose = true;
             }
 
 
@@ -54,6 +57,7 @@ public class PacoMove : MonoBehaviour
                 dest = (Vector2)transform.position - Vector2.up;
                 anim.SetInteger("dirY", -1);
                 anim.SetInteger("dirX", 0);
+                moviendose = true;
             }
 
 
@@ -62,10 +66,12 @@ public class PacoMove : MonoBehaviour
                 dest = (Vector2)transform.position - Vector2.right;
                 anim.SetInteger("dirY", 0);
                 anim.SetInteger("dirX", -1);
+                moviendose = true;
             }
             else {
                 anim.SetInteger("dirY", 0);
                 anim.SetInteger("dirX", 0);
+                moviendose = false;
             }
 
         }

@@ -15,6 +15,8 @@ public class AjustarVolumen : MonoBehaviour
         foreach (AudioSource s in sources) {
             s.volume = globalOptions.effectsVolume;
         }
+
+        GameObject.Find("fondo").GetComponent<AudioSource>().volume = globalOptions.musicVolume;
     }
 
     // Update is called once per frame
